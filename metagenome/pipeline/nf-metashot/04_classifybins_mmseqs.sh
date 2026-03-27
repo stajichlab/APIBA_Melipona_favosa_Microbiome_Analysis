@@ -18,7 +18,8 @@ if [ -z $N ]; then
   exit
 fi
 DB=/srv/projects/db/ncbi/mmseqs/uniref50
-#DB=/srv/projects/db/ncbi/mmseqs/swissprot
+#DB=/srv/projects/db/ncbi/mmseqs/nr_cluster
+DB=/srv/projects/db/ncbi/mmseqs/swissprot
 DBNAME=$(basename $DB)
 
 IFS=,

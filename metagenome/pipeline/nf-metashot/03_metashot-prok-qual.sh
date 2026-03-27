@@ -32,10 +32,9 @@ do
   pushd $RUNDIR
   if [ ! -f process.config ]; then ln -s ../process-qual.config process.config; ln -s ../process-qual.config ./; fi
   if [ ! -f metashot-qual.cfg ]; then ln -s ../metashot-qual.cfg ./; fi
-  if [ ! -f nextflow ]; then ln -s ../nextflow ./; fi
   echo "$PREFIX and $BINFOLDER and $OUTFOLDER/$STRAIN"
   if [ ! -f  $OUT/derep_info.tsv ]; then
-  	./nextflow run metashot/prok-quality -c metashot-qual.cfg \
+  	nextflow run metashot/prok-quality -c metashot-qual.cfg \
 	     --genomes "$BINFOLDER/*.fa" \
 	     --outdir $OUT --max_cpus $CPU \
 	     --scratch $SCRATCH --resume

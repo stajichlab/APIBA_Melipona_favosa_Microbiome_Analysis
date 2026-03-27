@@ -6,8 +6,8 @@ if [ $SLURM_CPUS_ON_NODE ]; then
   CPU=$SLURM_CPUS_ON_NODE
 fi
 
-GTKDB=/srv/projects/db/gtdbtk/220
-MASHDB=gtkdb220.msh
+GTKDB=/srv/projects/db/gtdbtk/226
+MASHDB=gtkdb226.msh
 module load workspace/scratch
 module load gtdbtk
 
