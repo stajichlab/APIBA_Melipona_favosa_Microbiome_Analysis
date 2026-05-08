@@ -15,7 +15,7 @@
 #   *_alpha_diversity.pdf/png       -- Shannon/Simpson/Chao1/Observed by host
 #   *_alpha_by_material.pdf/png     -- Shannon by honey vs pollen
 #   *_barplot_Phylum/Class/Order/Family/Genus.pdf/png
-#   *_microshade_phylum_genus.pdf/png  -- microshade sub-grouped bars
+#   *_microshades_phylum_genus.pdf/png  -- microshades sub-grouped bars
 #   *_beta_bray_pcoa.pdf/png        -- Bray-Curtis PCoA
 #   *_beta_jaccard_pcoa.pdf/png     -- Jaccard PCoA
 #   *_beta_bray_nmds.pdf/png        -- NMDS (Bray-Curtis)
@@ -43,20 +43,20 @@ suppressPackageStartupMessages({
   invisible(lapply(required_pkgs, library, character.only = TRUE))
 })
 
-# microshade: optional, from GitHub
-HAS_MICROSHADE <- requireNamespace("microshade", quietly = TRUE)
-if (!HAS_MICROSHADE) {
-  message("microshade not found – attempting install from GitHub (KasperSkytte/microshade)...")
+# microshades: optional, from GitHub
+HAS_MICROSHADES <- requireNamespace("microshades", quietly = TRUE)
+if (!HAS_MICROSHADES) {
+  message("microshades not found – attempting install from GitHub (KasperSkytte/microshades)...")
   tryCatch({
     if (!requireNamespace("remotes", quietly = TRUE)) install.packages("remotes", quiet = TRUE)
-    remotes::install_github("KasperSkytte/microshade", quiet = TRUE)
-    library(microshade)
-    HAS_MICROSHADE <- TRUE
+    remotes::install_github("KarstensLab/microshades", dependencies = TRUE, quiet=TRUE)
+    library(microshades)
+    HAS_MICROSHADES <- TRUE
   }, error = function(e) {
-    message("microshade unavailable; will use manual shaded palette instead.")
+    message("microshades unavailable; will use manual shaded palette instead.")
   })
 } else {
-  library(microshade)
+  library(microshades)
 }
 
 # ---- argument parsing -------------------------------------------------------
