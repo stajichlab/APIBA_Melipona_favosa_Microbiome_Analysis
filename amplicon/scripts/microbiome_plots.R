@@ -43,6 +43,14 @@ suppressPackageStartupMessages({
   invisible(lapply(required_pkgs, library, character.only = TRUE))
 })
 
+# speedyseq: faster tax_glom / psmelt, from GitHub (mikemc/speedyseq)
+if (!requireNamespace("speedyseq", quietly = TRUE)) {
+  message("speedyseq not found – installing from GitHub (mikemc/speedyseq)...")
+  if (!requireNamespace("remotes", quietly = TRUE)) install.packages("remotes", quiet = TRUE)
+  remotes::install_github("mikemc/speedyseq", quiet = TRUE, dependencies = TRUE)
+}
+library(speedyseq)
+
 # microshades: optional, from GitHub
 HAS_MICROSHADES <- requireNamespace("microshades", quietly = TRUE)
 if (!HAS_MICROSHADES) {
@@ -583,37 +591,75 @@ for (rank in c("Phylum", "Class", "Order", "Family", "Genus")) {
 # microshade creates shaded sub-colours within each top-level group (Phylum)
 # so related taxa at Genus level share a hue family
 
-if (HAS_MICROSHADE) {
-  message("\n--- microshade barplots ---")
+if (HAS_MICROSHADES) {
+  message("\n--- microshades barplots ---")
   tryCatch({
-    # microshade_prep returns a list with long-format data and colour palette
-    ms_prep <- microshade_prep(ps_rel,
-                               top_group = "Phylum",
-                               sub_group = "Genus",
-                               top_n     = 5)
+    # Step 1: prep_mdf agglomerates to Genus and melts; pass raw ps (it normalises internally)
+    mdf <- prep_mdf(ps, subgroup_level = "Genus", as_relative_abundance = TRUE)
 
-    # Sample order
-    sdat_ord <- as.data.frame(sample_data(ps_rel))
-    samp_ord  <- rownames(sdat_ord)[order(sdat_ord$material, sdat_ord$host)]
+    # Step 2: pick top phyla dynamically from the data
+    top_phyla <- mdf |>
+      dplyr::filter(!is.na(Phylum) & Phylum != "NA" & Phylum != "") |>
+      dplyr::group_by(Phylum) |>
+      dplyr::summarise(total = sum(Abundance, na.rm = TRUE), .groups = "drop") |>
+      dplyr::arrange(dplyr::desc(total)) |>
+      dplyr::slice_head(n = 5) |>
+      dplyr::pull(Phylum)
+    message("  Top phyla for microshades: ", paste(top_phyla, collapse = ", "))
 
-    p_ms <- microshade_plot(ms_prep,
-                            sample_order = samp_ord,
-                            legend_text_size = 7) +
-      facet_grid(~ sdat_ord[as.character(.) , "material"],
-                 scales = "free_x", space = "free_x") +
+    # Step 3: create_color_dfs returns list(mdf = ..., cdf = ...)
+    color_objs <- create_color_dfs(
+      mdf,
+      selected_groups  = top_phyla,
+      top_n_subgroups  = 4,
+      group_level      = "Phylum",
+      subgroup_level   = "Genus"
+    )
+    mdf_group <- color_objs$mdf
+    cdf       <- color_objs$cdf
+
+    # Step 4: reorder samples by material then host
+    sdat_ord <- as.data.frame(sample_data(ps))
+    samp_ord <- rownames(sdat_ord)[order(sdat_ord$material, sdat_ord$host)]
+    mdf_group <- reorder_samples_by(
+      mdf_group, cdf,
+      sample_ordering = samp_ord,
+      group_level     = "Phylum",
+      subgroup_level  = "Genus"
+    )
+
+    # Step 5: main stacked bar plot — material column from psmelt is in mdf_group
+    p_ms <- plot_microshades(mdf_group, cdf, group_label = "Phylum Genus") +
+      scale_y_continuous(labels = scales::percent_format(), expand = c(0, 0)) +
+      facet_grid(~ material, scales = "free_x", space = "free_x") +
       theme_bw(base_size = 11) +
       theme(
         axis.text.x      = element_text(angle = 90, hjust = 1, vjust = 0.5, size = 7),
+        legend.position  = "none",
         strip.background = element_rect(fill = "grey88")
       ) +
-      labs(title = paste(opt$type, "Phylum > Genus Composition (microshade)"))
+      labs(title = paste(opt$type, "Phylum > Genus Composition (microshades)"),
+           x = NULL, y = "Relative Abundance")
 
-    p_ms <- apply_sample_labels(p_ms, ps_rel)
+    # Step 6: custom legend (microshades requires a separate legend plot)
+    legend_ms <- custom_legend(
+      mdf_group, cdf,
+      group_level      = "Phylum",
+      subgroup_level   = "Genus",
+      legend_key_size  = 0.4,
+      legend_text_size = 8
+    )
 
-    save_plot(p_ms,
-              file.path(opt$outdir, paste0(opt$type, "_microshade_phylum_genus")),
-              w = opt$width + 2, h = opt$height)
-  }, error = function(e) message("  microshade plot failed: ", e$message))
+    # Step 7: combine bar + legend with patchwork
+    p_ms_combined <- p_ms + legend_ms +
+      patchwork::plot_layout(ncol = 2, widths = c(3, 1))
+
+    ggsave(file.path(opt$outdir, paste0(opt$type, "_microshades_phylum_genus.pdf")),
+           p_ms_combined, width = opt$width + 4, height = opt$height)
+    ggsave(file.path(opt$outdir, paste0(opt$type, "_microshades_phylum_genus.png")),
+           p_ms_combined, width = opt$width + 4, height = opt$height, dpi = 150)
+    message("  Saved: ", opt$type, "_microshades_phylum_genus")
+  }, error = function(e) message("  microshades plot failed: ", e$message))
 } else {
   # Fallback: manual shaded colour scheme using HSV within each phylum group
   message("\n--- Shaded barplot (microshade fallback) ---")
