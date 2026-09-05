@@ -1,0 +1,2 @@
+n_scaffolds	n_contigs	scaf_bp	contig_bp	gap_pct	scaf_N50	scaf_L50	ctg_N50	ctg_L50	scaf_N90	scaf_L90	ctg_N90	ctg_L90	scaf_max	ctg_max	scaf_n_gt50K	scaf_pct_gt50K	gc_avg	gc_std	filename
+102136	102136	85100687	85100687	0.000	15051	1015	15051	1015	75478	367	75478	367	817400	817400	52	7.178	0.43087	0.11227	/bigdata/stajichlab/shared/projects/BeeGut/work/c0/7527da2d28cf95e536a544a6d7af1e/6PEH_6_R.fa
