@@ -1,0 +1,94 @@
+name	taxonomy_id	taxonomy_lvl	Superkingdom	Kingdom	5MMH_5_pct_reads	6PEH_6_pct_reads	SVH11_Q11_pct_reads
+Bacillota	1239	P	Bacteria	Bacillati	68.0420	61.4210	63.9080
+Actinomycetota	201174	P	Bacteria	Bacillati	0.8580	0.3730	0.5910
+Mycoplasmatota	544448	P	Bacteria	Bacillati	0.4700	0.7580	0.5980
+Cyanobacteriota	1117	P	Bacteria	Bacillati	0.3060	0.2690	0.3290
+Chloroflexota	200795	P	Bacteria	Bacillati	0.0090	0.0010	0.0050
+Armatimonadota	67819	P	Bacteria	Bacillati	0.0000	0.0000	0.0000
+Vulcanimicrobiota	1154676	P	Bacteria	Bacillati	0.0000	0.0000	0.0000
+Pseudomonadota	1224	P	Bacteria	Pseudomonadati	11.7130	7.2330	9.0620
+Bacteroidota	976	P	Bacteria	Pseudomonadati	1.7080	2.3260	1.9640
+Chlorobiota	1090	P	Bacteria	Pseudomonadati	0.0100	0.0020	0.0040
+Ignavibacteriota	1134404	P	Bacteria	Pseudomonadati	0.0060	0.0090	0.0110
+Balneolota	1936987	P	Bacteria	Pseudomonadati	0.0010	0.0000	0.0020
+Rhodothermota	1853220	P	Bacteria	Pseudomonadati	0.0010	0.0000	0.0010
+Fidelibacterota	62680	P	Bacteria	Pseudomonadati	0.0020	0.0040	0.0030
+Gemmatimonadota	142182	P	Bacteria	Pseudomonadati	0.0020	0.0000	0.0010
+Fibrobacterota	65842	P	Bacteria	Pseudomonadati	0.0010	0.0000	0.0010
+Candidatus Cloacimonadota	456828	P	Bacteria	Pseudomonadati	0.0000	0.0030	0.0000
+Campylobacterota	29547	P	Bacteria	Pseudomonadati	0.3380	0.4680	0.4020
+Planctomycetota	203682	P	Bacteria	Pseudomonadati	0.0670	0.0290	0.0370
+Chlamydiota	204428	P	Bacteria	Pseudomonadati	0.0220	0.0340	0.0280
+Verrucomicrobiota	74201	P	Bacteria	Pseudomonadati	0.0210	0.0020	0.0070
+Kiritimatiellota	134625	P	Bacteria	Pseudomonadati	0.0010	0.0000	0.0000
+Lentisphaerota	256845	P	Bacteria	Pseudomonadati	0.0010	0.0000	0.0010
+Candidatus Omnitrophota	67812	P	Bacteria	Pseudomonadati	0.0000	0.0000	0.0000
+Spirochaetota	203691	P	Bacteria	Pseudomonadati	0.1050	0.1650	0.0890
+Thermodesulfobacteriota	200940	P	Bacteria	Pseudomonadati	0.0910	0.0440	0.0580
+Bdellovibrionota	3018035	P	Bacteria	Pseudomonadati	0.0320	0.0160	0.0290
+Myxococcota	2818505	P	Bacteria	Pseudomonadati	0.0220	0.0040	0.0140
+Acidobacteriota	57723	P	Bacteria	Pseudomonadati	0.0200	0.0030	0.0140
+Aquificota	200783	P	Bacteria	Pseudomonadati	0.0190	0.0190	0.0190
+Nitrospirota	40117	P	Bacteria	Pseudomonadati	0.0180	0.0130	0.0110
+Deferribacterota	200930	P	Bacteria	Pseudomonadati	0.0060	0.0050	0.0040
+Atribacterota	67818	P	Bacteria	Pseudomonadati	0.0040	0.0000	0.0010
+Thermodesulfobiota	3002442	P	Bacteria	Pseudomonadati	0.0040	0.0010	0.0030
+Dictyoglomota	68297	P	Bacteria	Pseudomonadati	0.0020	0.0070	0.0010
+Coprothermobacterota	2138240	P	Bacteria	Pseudomonadati	0.0010	0.0000	0.0000
+Caldisericota	67814	P	Bacteria	Pseudomonadati	0.0010	0.0010	0.0010
+Chrysiogenota	200938	P	Bacteria	Pseudomonadati	0.0010	0.0000	0.0000
+Elusimicrobiota	74152	P	Bacteria	Pseudomonadati	0.0010	0.0010	0.0010
+Thermomicrobiota	3027942	P	Bacteria	Pseudomonadati	0.0010	0.0000	0.0000
+Calditrichota	1930617	P	Bacteria	Pseudomonadati	0.0000	0.0000	0.0000
+Nitrospinota	1293497	P	Bacteria	Pseudomonadati	0.0000	0.0000	0.0000
+Thermosulfidibacterota	3123113	P	Bacteria	Pseudomonadati	0.0000	0.0000	0.0000
+Zhurongbacterota	3470743	P	Bacteria	Pseudomonadati	0.0000	0.0000	0.0000
+Fusobacteriota	32066	P	Bacteria	Fusobacteriati	0.1360	0.3100	0.2270
+Synergistota	508458	P	Bacteria	Thermotogati	0.0650	0.0590	0.0170
+Thermotogota	200918	P	Bacteria	Thermotogati	0.0180	0.0220	0.0250
+Deinococcota	1297	P	Bacteria	Thermotogati	0.0150	0.0080	0.0120
+Candidatus Saccharimonadota	95818	P	Bacteria		0.0030	0.0000	0.0010
+Candidatus Fervidibacterota	1383058	P	Bacteria		0.0020	0.0000	0.0010
+Minisyncoccota	1752724	P	Bacteria		0.0000	0.0000	0.0000
+Candidatus Absconditibacteriota	221235	P	Bacteria		0.0000	0.0030	0.0040
+Streptophyta	35493	P	Eukaryota	Viridiplantae	13.4500	23.7280	19.9060
+Chlorophyta	3041	P	Eukaryota	Viridiplantae	0.0100	0.0040	0.0050
+Chordata	7711	P	Eukaryota	Metazoa	1.0130	1.7060	1.7420
+Ascomycota	4890	P	Eukaryota	Fungi	0.4240	0.2230	0.2660
+Basidiomycota	5204	P	Eukaryota	Fungi	0.0590	0.0780	0.0670
+Mucoromycota	1913637	P	Eukaryota	Fungi	0.0410	0.1310	0.0850
+Microsporidia	6029	P	Eukaryota	Fungi	0.0030	0.0040	0.0050
+Apicomplexa	5794	P	Eukaryota		0.0860	0.1600	0.1460
+Ciliophora	5878	P	Eukaryota		0.0000	0.0000	0.0000
+Bacillariophyta	2836	P	Eukaryota		0.0040	0.0000	0.0030
+Oomycota	4762	P	Eukaryota		0.0030	0.0010	0.0020
+Cercozoa	136419	P	Eukaryota		0.0000	0.0000	0.0000
+Parabasalia	5719	P	Eukaryota		0.0170	0.0320	0.0190
+Fornicata	207245	P	Eukaryota		0.0020	0.0060	0.0040
+Evosea	2605435	P	Eukaryota		0.0160	0.0280	0.0130
+Euglenozoa	33682	P	Eukaryota		0.0140	0.0020	0.0040
+Rhodophyta	2763	P	Eukaryota		0.0010	0.0000	0.0010
+Methanobacteriota	28890	P	Archaea	Methanobacteriati	0.1140	0.1750	0.1290
+Thermoplasmatota	2283796	P	Archaea	Methanobacteriati	0.0050	0.0060	0.0060
+Nitrososphaerota	651137	P	Archaea	Thermoproteati	0.0310	0.0210	0.0140
+Thermoproteota	28889	P	Archaea	Thermoproteati	0.0160	0.0190	0.0120
+Promethearchaeota	3366641	P	Archaea	Promethearchaeati	0.0070	0.0090	0.0060
+Nanobdellota	192989	P	Archaea	Nanobdellati	0.0010	0.0030	0.0010
+Microcaldota	1801631	P	Archaea	Nanobdellati	0.0000	0.0000	0.0000
+Candidatus Nanohalarchaeota	1462430	P	Archaea	Nanobdellati	0.4820	0.0000	0.0000
+Uroviricota	2731618	P	Viruses	Heunggongvirae	0.0370	0.0270	0.0470
+Peploviricota	2731361	P	Viruses	Heunggongvirae	0.0010	0.0000	0.0010
+Nucleocytoviricota	2732007	P	Viruses	Bamfordvirae	0.0070	0.0180	0.0100
+Lenarviricota	2732407	P	Viruses	Orthornavirae	0.0040	0.0000	0.0000
+Negarnaviricota	2497569	P	Viruses	Orthornavirae	0.0010	0.0020	0.0020
+Pisuviricota	2732408	P	Viruses	Orthornavirae	0.0010	0.0000	0.0000
+Duplornaviricota	2732405	P	Viruses	Orthornavirae	0.0000	0.0000	0.0060
+Kitrinoviricota	2732406	P	Viruses	Orthornavirae	0.0000	0.0000	0.0000
+Artverviricota	2732409	P	Viruses	Pararnavirae	0.0040	0.0000	0.0000
+Cressdnaviricota	2732416	P	Viruses	Shotokuvirae	0.0010	0.0000	0.0010
+Cossaviricota	2732415	P	Viruses	Shotokuvirae	0.0000	0.0000	0.0000
+Hofneiviricota	2732410	P	Viruses	Loebvirae	0.0000	0.0000	0.0000
+Taleaviricota	2840024	P	Viruses	Zilligvirae	0.0000	0.0000	0.0000
+Candidatus Bipolaricaulota	67810	P	Bacteria		0.0000	0.0000	0.0110
+Preplasmiviricota	2732008	P	Viruses	Bamfordvirae	0.0000	0.0000	0.0000
+Commensaviricota	3412625	P	Viruses	Shotokuvirae	0.0000	0.0000	0.0000

@@ -1,0 +1,854 @@
+name	taxonomy_id	taxonomy_lvl	Superkingdom	Kingdom	Phylum	Class	Order	5MMH_5_pct_reads	6PEH_6_pct_reads	SVH11_Q11_pct_reads
+Lactobacillaceae	33958	F	Bacteria	Bacillati	Bacillota	Bacilli	Lactobacillales	54.8270	42.7490	47.9400
+Enterococcaceae	81852	F	Bacteria	Bacillati	Bacillota	Bacilli	Lactobacillales	2.7070	3.9830	3.8380
+Streptococcaceae	1300	F	Bacteria	Bacillati	Bacillota	Bacilli	Lactobacillales	1.6620	2.2210	1.8350
+Carnobacteriaceae	186828	F	Bacteria	Bacillati	Bacillota	Bacilli	Lactobacillales	0.8760	1.2260	0.9410
+Aerococcaceae	186827	F	Bacteria	Bacillati	Bacillota	Bacilli	Lactobacillales	0.2350	0.2720	0.3390
+Bacillaceae	186817	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	2.8840	3.7460	3.1600
+Staphylococcaceae	90964	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	1.8200	2.5810	2.0140
+Paenibacillaceae	186822	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	0.4510	0.3310	0.4500
+Caryophanaceae	186818	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	0.4150	0.5550	0.4300
+Listeriaceae	186820	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	0.2590	0.3860	0.2600
+Anoxybacillaceae	3120669	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	0.1130	0.0810	0.1170
+Gemellaceae	539738	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	0.0500	0.1340	0.0860
+Fictibacillaceae	3120697	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	0.0390	0.0630	0.0350
+Alicyclobacillaceae	186823	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	0.0230	0.0160	0.0220
+Sporolactobacillaceae	186821	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	0.0200	0.0190	0.0350
+Guptibacillaceae	3421337	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	0.0170	0.0120	0.0100
+Thermoactinomycetaceae	186824	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	0.0100	0.0020	0.0100
+Abyssicoccaceae	3076164	F	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	0.0030	0.0030	0.0110
+Clostridiaceae	31979	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.5960	1.0300	0.7690
+Oscillospiraceae	216572	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0610	0.0620	0.0570
+Desulfitobacteriaceae	2937909	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0240	0.0220	0.0330
+Peptococcaceae	186807	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0220	0.0280	0.0260
+Eubacteriaceae	186806	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0260	0.0180	0.0500
+Syntrophomonadaceae	68298	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0120	0.0170	0.0120
+Clostridiales Family XVI. Incertae Sedis	543347	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0020	0.0000	0.0020
+Clostridiales Family XVII. Incertae Sedis	539000	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0030	0.0100	0.0100
+Fusibacteraceae	3679999	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0070	0.0030	0.0020
+Acutalibacteraceae	3082771	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0060	0.0090	0.0100
+Proteinivoracaceae	1491775	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0030	0.0020	0.0030
+Aristaeellaceae	3046368	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0030	0.0030	0.0020
+Heliobacteriaceae	31984	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0020	0.0000	0.0020
+Symbiobacteriaceae	543349	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0010	0.0000	0.0000
+Desulfotomaculaceae	2937910	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0010	0.0010	0.0010
+Desulfallaceae	2867375	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0010	0.0000	0.0000
+Thermincolaceae	2937911	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0010	0.0000	0.0000
+Butyricicoccaceae	3085642	F	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	0.0010	0.0000	0.0000
+Peptostreptococcaceae	186804	F	Bacteria	Bacillati	Bacillota	Clostridia	Peptostreptococcales	0.1850	0.2570	0.1930
+Natronincolaceae	3118656	F	Bacteria	Bacillati	Bacillota	Clostridia	Peptostreptococcales	0.0380	0.0370	0.0400
+Anaerovoracaceae	543314	F	Bacteria	Bacillati	Bacillota	Clostridia	Peptostreptococcales	0.0260	0.0210	0.0250
+Caminicellaceae	3118654	F	Bacteria	Bacillati	Bacillota	Clostridia	Peptostreptococcales	0.0080	0.0220	0.0170
+Filifactoraceae	3118655	F	Bacteria	Bacillati	Bacillota	Clostridia	Peptostreptococcales	0.0060	0.0060	0.0060
+Thermotaleaceae	3118657	F	Bacteria	Bacillati	Bacillota	Clostridia	Peptostreptococcales	0.0010	0.0010	0.0010
+Peptoclostridiaceae	3120161	F	Bacteria	Bacillati	Bacillota	Clostridia	Peptostreptococcales	0.0000	0.0000	0.0000
+Lachnospiraceae	186803	F	Bacteria	Bacillati	Bacillota	Clostridia	Lachnospirales	0.2000	0.2840	0.2340
+Vallitaleaceae	2603322	F	Bacteria	Bacillati	Bacillota	Clostridia	Lachnospirales	0.0140	0.0240	0.0230
+Anaerotignaceae	3118652	F	Bacteria	Bacillati	Bacillota	Clostridia	Lachnospirales	0.0070	0.0010	0.0040
+Cellulosilyticaceae	3018741	F	Bacteria	Bacillati	Bacillota	Clostridia	Lachnospirales	0.0060	0.0240	0.0130
+Defluviitaleaceae	1185407	F	Bacteria	Bacillati	Bacillota	Clostridia	Lachnospirales	0.0000	0.0000	0.0010
+Halanaerobiaceae	972	F	Bacteria	Bacillati	Bacillota	Clostridia	Halanaerobiales	0.0240	0.0190	0.0170
+Halobacteroidaceae	53434	F	Bacteria	Bacillati	Bacillota	Clostridia	Halanaerobiales	0.0250	0.0580	0.0320
+Halothermotrichaceae	3046412	F	Bacteria	Bacillati	Bacillota	Clostridia	Halanaerobiales	0.0050	0.0010	0.0040
+Thermoanaerobacteraceae	186814	F	Bacteria	Bacillati	Bacillota	Clostridia	Thermoanaerobacterales	0.0170	0.0210	0.0160
+Candidatus Desulforudaceae	3399799	F	Bacteria	Bacillati	Bacillota	Clostridia	Thermoanaerobacterales	0.0000	0.0000	0.0000
+Neomoorellaceae	3039168	F	Bacteria	Bacillati	Bacillota	Clostridia	Neomoorellales	0.0050	0.0010	0.0030
+Desulfitibacteraceae	3039170	F	Bacteria	Bacillati	Bacillota	Clostridia	Neomoorellales	0.0050	0.0040	0.0050
+Zhaonellaceae	2748673	F	Bacteria	Bacillati	Bacillota	Clostridia	Neomoorellales	0.0010	0.0000	0.0000
+Tepidanaerobacteraceae	2770092	F	Bacteria	Bacillati	Bacillota	Clostridia	Thermosediminibacterales	0.0100	0.0230	0.0070
+Thermosediminibacteraceae	2770093	F	Bacteria	Bacillati	Bacillota	Clostridia	Thermosediminibacterales	0.0000	0.0000	0.0000
+Acetivibrionaceae	3120654	F	Bacteria	Bacillati	Bacillota	Clostridia	Acetivibrionales	0.0080	0.0170	0.0070
+Natranaerofabaceae	2807496	F	Bacteria	Bacillati	Bacillota	Clostridia	Natranaerobiales	0.0030	0.0180	0.0010
+Natranaerobiaceae	485255	F	Bacteria	Bacillati	Bacillota	Clostridia	Natranaerobiales	0.0010	0.0000	0.0010
+Koleobacteraceae	2786988	F	Bacteria	Bacillati	Bacillota	Clostridia	Koleobacterales	0.0020	0.0030	0.0040
+Christensenellaceae	990719	F	Bacteria	Bacillati	Bacillota	Clostridia	Christensenellales	0.0010	0.0000	0.0000
+Monoglobaceae	3085657	F	Bacteria	Bacillati	Bacillota	Clostridia	Monoglobales	0.0010	0.0010	0.0010
+Mahellaceae	3120709	F	Bacteria	Bacillati	Bacillota	Clostridia	Mahellales	0.0000	0.0000	0.0000
+Erysipelotrichaceae	128827	F	Bacteria	Bacillati	Bacillota	Erysipelotrichia	Erysipelotrichales	0.0990	0.1480	0.1400
+Turicibacteraceae	2810281	F	Bacteria	Bacillati	Bacillota	Erysipelotrichia	Erysipelotrichales	0.0610	0.0540	0.0520
+Coprobacillaceae	2810280	F	Bacteria	Bacillati	Bacillota	Erysipelotrichia	Erysipelotrichales	0.0800	0.1960	0.1290
+Veillonellaceae	31977	F	Bacteria	Bacillati	Bacillota	Negativicutes	Veillonellales	0.0700	0.0590	0.0390
+Sporomusaceae	1843490	F	Bacteria	Bacillati	Bacillota	Negativicutes	Selenomonadales	0.0310	0.0700	0.0400
+Selenomonadaceae	1843491	F	Bacteria	Bacillati	Bacillota	Negativicutes	Selenomonadales	0.0260	0.0330	0.0270
+Acidaminococcaceae	909930	F	Bacteria	Bacillati	Bacillota	Negativicutes	Acidaminococcales	0.0050	0.0010	0.0030
+Peptoniphilaceae	1570339	F	Bacteria	Bacillati	Bacillota	Tissierellia	Tissierellales	0.0940	0.1930	0.1490
+Tepidimicrobiaceae	2992719	F	Bacteria	Bacillati	Bacillota	Tissierellia	Tissierellales	0.0180	0.0230	0.0140
+Tissierellaceae	1737406	F	Bacteria	Bacillati	Bacillota	Tissierellia	Tissierellales	0.0120	0.0290	0.0220
+Gottschalkiaceae	2042895	F	Bacteria	Bacillati	Bacillota	Tissierellia	Tissierellales	0.0110	0.0090	0.0020
+Thermohalobacteraceae	2848916	F	Bacteria	Bacillati	Bacillota	Tissierellia	Tissierellales	0.0030	0.0060	0.0070
+Acidilutibacteraceae	2992717	F	Bacteria	Bacillati	Bacillota	Tissierellia	Tissierellales	0.0040	0.0130	0.0100
+Sporanaerobacteraceae	2992718	F	Bacteria	Bacillati	Bacillota	Tissierellia	Tissierellales	0.0240	0.0750	0.0780
+Caldicellulosiruptoraceae	3071002	F	Bacteria	Bacillati	Bacillota		Caldicellulosiruptorales	0.0660	0.0890	0.0270
+Dethiobacteraceae	3086088	F	Bacteria	Bacillati	Bacillota	Dethiobacteria	Dethiobacterales	0.0030	0.0060	0.0120
+Geochordaceae	3366852	F	Bacteria	Bacillati	Bacillota	Limnochordia	Limnochordales	0.0010	0.0000	0.0000
+Limnochordaceae	1676650	F	Bacteria	Bacillati	Bacillota	Limnochordia	Limnochordales	0.0000	0.0000	0.0000
+Microbacteriaceae	85023	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0940	0.0340	0.0870
+Micrococcaceae	1268	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0740	0.0250	0.0300
+Dermabacteraceae	85020	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0110	0.0060	0.0040
+Intrasporangiaceae	85021	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0130	0.0010	0.0030
+Brevibacteriaceae	85019	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0050	0.0020	0.0040
+Cellulomonadaceae	85016	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0050	0.0010	0.0020
+Promicromonosporaceae	85017	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0060	0.0030	0.0370
+Dermacoccaceae	145357	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0040	0.0000	0.0010
+Ornithinimicrobiaceae	2805590	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0020	0.0000	0.0020
+Ruaniaceae	1331736	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0020	0.0010	0.0000
+Kytococcaceae	2805426	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0010	0.0000	0.0000
+Sanguibacteraceae	145360	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0010	0.0000	0.0000
+Dermatophilaceae	85018	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0010	0.0000	0.0000
+Tropherymataceae	2805591	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0000	0.0000	0.0000
+Jonesiaceae	85022	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0000	0.0000	0.0000
+Beutenbergiaceae	125316	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0000	0.0000	0.0000
+Demequinaceae	1042322	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micrococcales	0.0000	0.0000	0.0000
+Streptomycetaceae	2062	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Kitasatosporales	0.1990	0.0760	0.1020
+Corynebacteriaceae	1653	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Mycobacteriales	0.0680	0.0270	0.0660
+Mycobacteriaceae	1762	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Mycobacteriales	0.0500	0.0160	0.0300
+Nocardiaceae	85025	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Mycobacteriales	0.0300	0.0110	0.0160
+Gordoniaceae	85026	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Mycobacteriales	0.0110	0.0020	0.0040
+Tsukamurellaceae	85028	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Mycobacteriales	0.0020	0.0000	0.0010
+Dietziaceae	85029	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Mycobacteriales	0.0010	0.0000	0.0010
+Lawsonellaceae	2805586	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Mycobacteriales	0.0010	0.0000	0.0000
+Hoyosellaceae	3040680	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Mycobacteriales	0.0000	0.0000	0.0000
+Bifidobacteriaceae	31953	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Bifidobacteriales	0.0650	0.0510	0.0790
+Nocardioidaceae	85015	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Propionibacteriales	0.0240	0.0130	0.0120
+Propionibacteriaceae	31957	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Propionibacteriales	0.0210	0.0020	0.0060
+Kribbellaceae	2726069	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Propionibacteriales	0.0050	0.0010	0.0020
+Actinopolymorphaceae	2805400	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Propionibacteriales	0.0000	0.0000	0.0000
+Pseudonocardiaceae	2070	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Pseudonocardiales	0.0400	0.0300	0.0320
+Micromonosporaceae	28056	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Micromonosporales	0.0340	0.0090	0.0190
+Actinomycetaceae	2049	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Actinomycetales	0.0350	0.0240	0.0140
+Streptosporangiaceae	2004	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Streptosporangiales	0.0080	0.0080	0.0040
+Thermomonosporaceae	2012	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Streptosporangiales	0.0050	0.0030	0.0050
+Nocardiopsidaceae	83676	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Streptosporangiales	0.0020	0.0070	0.0020
+Candidatus Nanopelagicaceae	2162846	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	0.0100	0.0120	0.0050
+Geodermatophilaceae	85030	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Geodermatophilales	0.0020	0.0010	0.0010
+Allobogoriellaceae	145358	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Allobogoriellales	0.0010	0.0000	0.0010
+Jatrophihabitantaceae	2805416	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Jatrophihabitantales	0.0010	0.0000	0.0010
+Nakamurellaceae	85031	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Nakamurellales	0.0010	0.0000	0.0000
+Kineosporiaceae	83778	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Kineosporiales	0.0010	0.0000	0.0010
+Frankiaceae	74712	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Frankiales	0.0010	0.0000	0.0010
+Sporichthyaceae	85033	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Sporichthyales	0.0010	0.0000	0.0000
+Glycomycetaceae	85034	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Glycomycetales	0.0010	0.0000	0.0000
+Catenulisporaceae	414877	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Catenulisporales	0.0010	0.0000	0.0000
+Jiangellaceae	1217100	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Jiangellales	0.0000	0.0000	0.0000
+Actinopolysporaceae	622451	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Actinopolysporales	0.0000	0.0000	0.0000
+Acidothermaceae	85032	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Acidothermales	0.0000	0.0000	0.0000
+Eggerthellaceae	1643826	F	Bacteria	Bacillati	Actinomycetota	Coriobacteriia	Eggerthellales	0.0050	0.0000	0.0020
+Atopobiaceae	1643824	F	Bacteria	Bacillati	Actinomycetota	Coriobacteriia	Coriobacteriales	0.0020	0.0020	0.0050
+Coriobacteriaceae	84107	F	Bacteria	Bacillati	Actinomycetota	Coriobacteriia	Coriobacteriales	0.0010	0.0000	0.0010
+Iamiaceae	633392	F	Bacteria	Bacillati	Actinomycetota	Acidimicrobiia	Acidimicrobiales	0.0020	0.0000	0.0010
+Candidatus Hopanoidivoransaceae	2983183	F	Bacteria	Bacillati	Actinomycetota	Acidimicrobiia	Acidimicrobiales	0.0020	0.0000	0.0000
+Candidatus Poriferisodalaceae	2983189	F	Bacteria	Bacillati	Actinomycetota	Acidimicrobiia	Acidimicrobiales	0.0010	0.0000	0.0010
+Acidimicrobiaceae	84994	F	Bacteria	Bacillati	Actinomycetota	Acidimicrobiia	Acidimicrobiales	0.0010	0.0000	0.0000
+Ilumatobacteraceae	2448023	F	Bacteria	Bacillati	Actinomycetota	Acidimicrobiia	Acidimicrobiales	0.0000	0.0000	0.0000
+Salinilacustritrichaceae	3436874	F	Bacteria	Bacillati	Actinomycetota	Acidimicrobiia	Acidimicrobiales	0.0000	0.0000	0.0000
+Baekduiaceae	2600303	F	Bacteria	Bacillati	Actinomycetota	Thermoleophilia	Solirubrobacterales	0.0020	0.0000	0.0000
+Conexibacteraceae	320583	F	Bacteria	Bacillati	Actinomycetota	Thermoleophilia	Solirubrobacterales	0.0010	0.0000	0.0000
+Paraconexibacteraceae	2758916	F	Bacteria	Bacillati	Actinomycetota	Thermoleophilia	Solirubrobacterales	0.0000	0.0000	0.0000
+Capillimicrobiaceae	2976758	F	Bacteria	Bacillati	Actinomycetota	Thermoleophilia	Solirubrobacterales	0.0000	0.0000	0.0000
+Miltoncostaeaceae	2843199	F	Bacteria	Bacillati	Actinomycetota	Thermoleophilia	Miltoncostaeales	0.0000	0.0000	0.0000
+Thermoleophilaceae	320796	F	Bacteria	Bacillati	Actinomycetota	Thermoleophilia	Thermoleophilales	0.0000	0.0000	0.0000
+Egicoccaceae	1755824	F	Bacteria	Bacillati	Actinomycetota	Nitriliruptoria	Egicoccales	0.0020	0.0000	0.0010
+Euzebyaceae	908622	F	Bacteria	Bacillati	Actinomycetota	Nitriliruptoria	Euzebyales	0.0000	0.0000	0.0000
+Egibacteraceae	1747769	F	Bacteria	Bacillati	Actinomycetota	Nitriliruptoria	Egibacterales	0.0000	0.0000	0.0000
+Rubrobacteraceae	84997	F	Bacteria	Bacillati	Actinomycetota	Rubrobacteria	Rubrobacterales	0.0010	0.0000	0.0000
+Mycoplasmataceae	2092	F	Bacteria	Bacillati	Mycoplasmatota	Mollicutes	Mycoplasmatales	0.1580	0.2380	0.1650
+Candidatus Hepatoplasmataceae	3132029	F	Bacteria	Bacillati	Mycoplasmatota	Mollicutes	Mycoplasmatales	0.0070	0.0150	0.0080
+Spiroplasmataceae	2131	F	Bacteria	Bacillati	Mycoplasmatota	Mollicutes	Entomoplasmatales	0.0970	0.1610	0.1220
+Entomoplasmataceae	33925	F	Bacteria	Bacillati	Mycoplasmatota	Mollicutes	Entomoplasmatales	0.0200	0.0290	0.1030
+Candidatus Izemoplasmataceae	2975520	F	Bacteria	Bacillati	Mycoplasmatota	Mollicutes	Candidatus Izemoplasmatales	0.0270	0.0360	0.0240
+Hujiaoplasmataceae	3078170	F	Bacteria	Bacillati	Mycoplasmatota	Mollicutes	Candidatus Izemoplasmatales	0.0010	0.0000	0.0010
+Acholeplasmataceae	2146	F	Bacteria	Bacillati	Mycoplasmatota	Mollicutes	Acholeplasmatales	0.0290	0.0650	0.0280
+Metamycoplasmataceae	2895623	F	Bacteria	Bacillati	Mycoplasmatota		Mycoplasmoidales	0.1190	0.1930	0.1290
+Mycoplasmoidaceae	2790998	F	Bacteria	Bacillati	Mycoplasmatota		Mycoplasmoidales	0.0150	0.0210	0.0180
+Nostocaceae	1162	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Nostocales	0.0850	0.0690	0.1110
+Aphanizomenonaceae	1892259	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Nostocales	0.0160	0.0150	0.0150
+Hapalosiphonaceae	1892263	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Nostocales	0.0070	0.0080	0.0050
+Nodulariaceae	3079761	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Nostocales	0.0050	0.0010	0.0030
+Calotrichaceae	2661849	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Nostocales	0.0040	0.0010	0.0020
+Scytonemataceae	1182	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Nostocales	0.0030	0.0000	0.0010
+Tolypothrichaceae	119859	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Nostocales	0.0010	0.0010	0.0090
+Rivulariaceae	1185	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Nostocales	0.0010	0.0000	0.0020
+Chlorogloeopsidaceae	1892261	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Nostocales	0.0010	0.0020	0.0000
+Geminocystaceae	2815910	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Chroococcales	0.0220	0.0290	0.0270
+Aphanothecaceae	1890450	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Chroococcales	0.0150	0.0230	0.0330
+Microcystaceae	1890449	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Chroococcales	0.0040	0.0010	0.0010
+Halothecacae	3079756	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Chroococcales	0.0030	0.0020	0.0050
+Chroococcaceae	1890464	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Chroococcales	0.0020	0.0000	0.0000
+Microcoleaceae	1892252	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Oscillatoriales	0.0090	0.0170	0.0120
+Oscillatoriaceae	1892254	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Oscillatoriales	0.0070	0.0090	0.0210
+Sirenicapillariaceae	2934961	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Oscillatoriales	0.0020	0.0010	0.0010
+Prochlorococcaceae	2881426	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Synechococcales	0.0260	0.0470	0.0330
+Synechococcaceae	1890426	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Synechococcales	0.0250	0.0160	0.0100
+Merismopediaceae	1890428	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Synechococcales	0.0040	0.0000	0.0010
+Leptolyngbyaceae	1890438	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Leptolyngbyales	0.0120	0.0020	0.0050
+Trichocoleusaceae	2303527	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Leptolyngbyales	0.0010	0.0000	0.0000
+Thermosynechococcaceae	2881378	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Acaryochloridales	0.0050	0.0000	0.0020
+Acaryochloridaceae	1890429	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Acaryochloridales	0.0040	0.0000	0.0010
+Pseudanabaenaceae	1890436	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Pseudanabaenales	0.0080	0.0010	0.0030
+Thalassoporaceae	3079743	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Pseudanabaenales	0.0000	0.0020	0.0000
+Pleurocapsaceae	1890500	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Pleurocapsales	0.0040	0.0040	0.0050
+Dermocarpellaceae	1890498	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Pleurocapsales	0.0020	0.0010	0.0010
+Oculatellaceae	2303507	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Oculatellales	0.0040	0.0030	0.0010
+Gomontiellaceae	1892255	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Gomontiellales	0.0020	0.0030	0.0020
+Chamaesiphonaceae	1890431	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Gomontiellales	0.0010	0.0000	0.0000
+Coleofasciculaceae	1892251	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Coleofasciculales	0.0030	0.0000	0.0010
+Chroococcidiopsidaceae	1890528	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Chroococcidiopsidales	0.0030	0.0100	0.0050
+Cymatolegaceae	3079746	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Nodosilineales	0.0020	0.0000	0.0000
+Nodosilineaceae	3039986	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Nodosilineales	0.0010	0.0000	0.0000
+Gloeomargaritaceae	1955043	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Gloeomargaritales	0.0020	0.0000	0.0010
+Gloeobacteraceae	1890422	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Gloeobacterales	0.0010	0.0000	0.0010
+Anthocerotibacteraceae	3079741	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Gloeobacterales	0.0000	0.0000	0.0000
+Desertifilaceae	1969992	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Desertifilales	0.0010	0.0000	0.0010
+Geitlerinemataceae	3079752	F	Bacteria	Bacillati	Cyanobacteriota	Cyanophyceae	Geitlerinematales	0.0070	0.0000	0.0070
+Chloroflexaceae	1106	F	Bacteria	Bacillati	Chloroflexota	Chloroflexia	Chloroflexales	0.0010	0.0000	0.0000
+Roseiflexaceae	1508635	F	Bacteria	Bacillati	Chloroflexota	Chloroflexia	Chloroflexales	0.0000	0.0000	0.0000
+Candidatus Chloroheliaceae	3139177	F	Bacteria	Bacillati	Chloroflexota	Chloroflexia	Candidatus Chloroheliales	0.0010	0.0000	0.0000
+Candidatus Thermobaculaceae	3399778	F	Bacteria	Bacillati	Chloroflexota	Chloroflexia	Candidatus Thermobaculales	0.0000	0.0000	0.0000
+Candidatus Promineifilaceae	3085097	F	Bacteria	Bacillati	Chloroflexota	Ardenticatenia	Candidatus Promineifilales	0.0020	0.0000	0.0020
+Anaerolineaceae	292628	F	Bacteria	Bacillati	Chloroflexota	Anaerolineae	Anaerolineales	0.0010	0.0000	0.0010
+Dehalococcoidaceae	1202464	F	Bacteria	Bacillati	Chloroflexota	Dehalococcoidia	Dehalococcoidales	0.0010	0.0000	0.0010
+Candidatus Lucifugimonadaceae	3143248	F	Bacteria	Bacillati	Chloroflexota	Dehalococcoidia	Candidatus Lucifugimonadales	0.0000	0.0000	0.0000
+Thermoflexaceae	1495648	F	Bacteria	Bacillati	Chloroflexota	Thermoflexia	Thermoflexales	0.0010	0.0000	0.0000
+Phototrophicaceae	2922432	F	Bacteria	Bacillati	Chloroflexota	Candidatus Thermofontia	Phototrophicales	0.0000	0.0000	0.0000
+Ktedonosporobacteraceae	2692416	F	Bacteria	Bacillati	Chloroflexota	Ktedonobacteria	Ktedonobacterales	0.0000	0.0000	0.0000
+Caldilineaceae	475964	F	Bacteria	Bacillati	Chloroflexota	Caldilineae	Caldilineales	0.0000	0.0000	0.0000
+Tepidiformaceae	2682227	F	Bacteria	Bacillati	Chloroflexota	Tepidiformia	Tepidiformales	0.0000	0.0000	0.0000
+Capsulimonadaceae	2494208	F	Bacteria	Bacillati	Armatimonadota	Armatimonadia	Capsulimonadales	0.0000	0.0000	0.0000
+Chthonomonadaceae	1077264	F	Bacteria	Bacillati	Armatimonadota	Chthonomonadia	Chthonomonadales	0.0000	0.0000	0.0000
+Vulcanimicrobiaceae	2829291	F	Bacteria	Bacillati	Vulcanimicrobiota	Vulcanimicrobiia	Vulcanimicrobiales	0.0000	0.0000	0.0000
+Acetobacteraceae	433	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Acetobacterales	4.4930	0.4030	1.9490
+Roseomonadaceae	3385906	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Acetobacterales	0.0450	0.0060	0.0280
+Acidocellaceae	3385905	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Acetobacterales	0.0210	0.0020	0.0100
+Elioraeaceae	2690195	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Acetobacterales	0.0020	0.0000	0.0010
+Rhizobiaceae	82115	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.2170	0.0480	0.1240
+Bartonellaceae	772	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.1030	0.0390	0.0480
+Nitrobacteraceae	41294	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0950	0.0190	0.0520
+Phyllobacteriaceae	69277	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0700	0.0180	0.0320
+Stappiaceae	2821832	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0470	0.0100	0.0250
+Brucellaceae	118882	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0510	0.0070	0.0130
+Methylobacteriaceae	119045	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0380	0.0050	0.0230
+Devosiaceae	2831106	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0300	0.0050	0.0130
+Methylocystaceae	31993	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0160	0.0030	0.0070
+Hyphomicrobiaceae	45401	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0140	0.0010	0.0050
+Xanthobacteraceae	335928	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0150	0.0020	0.0090
+Parvibaculaceae	2813035	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0130	0.0010	0.0050
+Aurantimonadaceae	255475	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0150	0.0030	0.0090
+Beijerinckiaceae	45404	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0100	0.0010	0.0030
+Boseaceae	2831100	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0100	0.0010	0.0050
+Cohaesibacteraceae	655351	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0070	0.0000	0.0020
+Ahrensiaceae	2829814	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0100	0.0010	0.0040
+Reyranellaceae	2844375	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0030	0.0000	0.0020
+Lichenihabitantaceae	2723775	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0020	0.0000	0.0000
+Coralliovaceae	3228937	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0020	0.0000	0.0000
+Rhodoligotrophaceae	3149308	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0020	0.0000	0.0000
+Phreatobacteraceae	2843305	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0020	0.0000	0.0010
+Salinarimonadaceae	2137278	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0020	0.0010	0.0020
+Terrirubraceae	3142785	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0010	0.0000	0.0010
+Pleomorphomonadaceae	2843308	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0020	0.0000	0.0010
+Kaistiaceae	2831111	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0010	0.0000	0.0010
+Salaquimonadaceae	3149307	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0010	0.0000	0.0010
+Amorphaceae	2685818	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0010	0.0000	0.0010
+Afifellaceae	2829802	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0010	0.0000	0.0010
+Aestuariivirgaceae	2650922	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0010	0.0000	0.0000
+Alsobacteraceae	2792775	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0010	0.0000	0.0010
+Methylopilaceae	3149309	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0010	0.0000	0.0000
+Blastochloridaceae	2831090	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0010	0.0000	0.0010
+Chelatococcaceae	2036754	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0000	0.0000	0.0000
+Ancalomicrobiaceae	2172021	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	0.0000	0.0000	0.0000
+Roseobacteraceae	2854170	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	0.1450	0.0110	0.0530
+Paracoccaceae	31989	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	0.1390	0.0140	0.0600
+Sphingomonadaceae	41297	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.1130	0.0260	0.1460
+Erythrobacteraceae	335929	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.0510	0.0060	0.0190
+Sphingorhabdaceae	3423719	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.0270	0.0060	0.0160
+Sphingobiaceae	3423717	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.0380	0.0210	0.0200
+Sphingopyxidaceae	3423718	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.0180	0.0020	0.0090
+Zymomonadaceae	2844881	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.0190	0.0000	0.0030
+Sphingosinicellaceae	2820280	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.0040	0.0000	0.0020
+Sphingomicrobiaceae	3423713	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.0040	0.0000	0.0010
+Parasphingopyxidaceae	3423716	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.0030	0.0000	0.0000
+Blastomonadaceae	3423720	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.0030	0.0000	0.0010
+Rhizorhabdaceae	3423714	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.0040	0.0040	0.0030
+Aquisediminimonadaceae	3423715	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	0.0000	0.0000	0.0000
+Thalassospiraceae	2844866	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0330	0.0020	0.0090
+Azospirillaceae	2829815	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0290	0.0030	0.0170
+Terasakiellaceae	2813951	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0130	0.0020	0.0030
+Rhodospirillaceae	41295	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0140	0.0040	0.0060
+Aestuariispiraceae	3466454	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0040	0.0000	0.0010
+Novispirillaceae	3031145	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0040	0.0000	0.0020
+Thalassobaculaceae	2844864	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0040	0.0000	0.0020
+Zavarziniaceae	2844877	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0020	0.0000	0.0010
+Dongiaceae	3031144	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0020	0.0000	0.0010
+Rhodovibrionaceae	2844403	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0020	0.0000	0.0010
+Magnetovibrionaceae	3031143	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0010	0.0000	0.0000
+Allostellaceae	2844601	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0010	0.0000	0.0010
+Magnetospirillaceae	3036766	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	0.0010	0.0000	0.0010
+Rickettsiaceae	775	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rickettsiales	0.0460	0.0610	0.0550
+Anaplasmataceae	942	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rickettsiales	0.0340	0.0430	0.0440
+Candidatus Midichloriaceae	1328881	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rickettsiales	0.0030	0.0000	0.0010
+Candidatus Deianiraeaceae	2603433	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rickettsiales	0.0010	0.0000	0.0000
+Candidatus Pelagibacteraceae	1655514	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Candidatus Pelagibacterales	0.0430	0.0410	0.0210
+Caulobacteraceae	76892	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Caulobacterales	0.0450	0.0050	0.0240
+Maricaulaceae	2800061	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Maricaulales	0.0260	0.0010	0.0070
+Robiginitomaculaceae	2800062	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Maricaulales	0.0080	0.0000	0.0050
+Holosporaceae	44746	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Holosporales	0.0100	0.0020	0.0040
+Candidatus Paracaedibacteraceae	1777752	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Holosporales	0.0030	0.0000	0.0010
+Candidatus Nucleicultricaceae	3399800	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Holosporales	0.0010	0.0140	0.0010
+Kordiimonadaceae	1331809	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Kordiimonadales	0.0100	0.0000	0.0020
+Temperatibacteraceae	1549128	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Kordiimonadales	0.0040	0.0000	0.0020
+Hyphomonadaceae	69657	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Hyphomonadales	0.0120	0.0010	0.0080
+Sneathiellaceae	510685	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Sneathiellales	0.0110	0.0000	0.0010
+Parvularculaceae	255474	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Parvularculales	0.0100	0.0010	0.0030
+Geminicoccaceae	2066434	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Geminicoccales	0.0110	0.0010	0.0060
+Emcibacteraceae	2066491	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Emcibacterales	0.0080	0.0020	0.0040
+Candidatus Puniceispirillaceae	3119833	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Candidatus Puniceispirillales	0.0040	0.0000	0.0010
+Candidatus Levibacteraceae	3457285	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Candidatus Puniceispirillales	0.0010	0.0030	0.0000
+Radicibacteraceae	3462473	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Radicibacterales	0.0020	0.0000	0.0010
+Minwuiaceae	2493628	F	Bacteria	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Minwuiales	0.0010	0.0000	0.0010
+Erwiniaceae	1903409	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Enterobacterales	0.3970	0.5580	1.0770
+Enterobacteriaceae	543	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Enterobacterales	0.8120	0.6900	0.8420
+Morganellaceae	1903414	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Enterobacterales	0.1820	2.5290	0.1720
+Yersiniaceae	1903411	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Enterobacterales	0.1160	0.1020	0.1190
+Pectobacteriaceae	1903410	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Enterobacterales	0.0390	0.0310	0.0390
+Hafniaceae	1903412	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Enterobacterales	0.0130	0.0060	0.0170
+Bruguierivoracaceae	2812006	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Enterobacterales	0.0060	0.0020	0.0180
+Budviciaceae	1903416	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Enterobacterales	0.0050	0.0010	0.0030
+Gallaecimonadaceae	3120698	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Enterobacterales	0.0030	0.0000	0.0010
+Moraxellaceae	468	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Moraxellales	0.8160	0.9000	1.4990
+Pseudoalteromonadaceae	267888	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	0.1010	0.1020	0.0740
+Shewanellaceae	267890	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	0.0860	0.0430	0.0770
+Colwelliaceae	267889	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	0.0760	0.0810	0.0690
+Alteromonadaceae	72275	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	0.0690	0.0340	0.0380
+Psychromonadaceae	267894	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	0.0220	0.0230	0.0140
+Idiomarinaceae	267893	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	0.0160	0.0020	0.0020
+Moritellaceae	267891	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	0.0090	0.0010	0.0130
+Ferrimonadaceae	267892	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	0.0050	0.0000	0.0020
+Aegicerorhabdaceae	3614797	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	0.0000	0.0000	0.0000
+Pseudomonadaceae	135621	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	0.3410	0.1110	0.5440
+Marinobacteraceae	2887365	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	0.0230	0.0040	0.0090
+Candidatus Njordibacteraceae	3457296	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	0.0130	0.0120	0.0060
+Ketobacteraceae	3085096	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	0.0020	0.0000	0.0000
+Pseudohongiellaceae	3085095	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	0.0010	0.0000	0.0000
+Vibrionaceae	641	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Vibrionales	0.2840	0.2060	0.2340
+Oceanospirillaceae	135620	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	0.0860	0.0500	0.0420
+Halomonadaceae	28256	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	0.0740	0.0250	0.0420
+Pleioneaceae	2823145	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	0.0150	0.0200	0.0210
+Zooshikellaceae	2898533	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	0.0140	0.0200	0.0060
+Endozoicomonadaceae	2066474	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	0.0120	0.0020	0.0050
+Saccharospirillaceae	255527	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	0.0060	0.0000	0.0020
+Hahellaceae	224379	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	0.0040	0.0000	0.0020
+Alcanivoracaceae	224372	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	0.0070	0.0000	0.0010
+Balneatrichaceae	2301193	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	0.0010	0.0000	0.0000
+Litorivicinaceae	449732	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	0.0000	0.0000	0.0000
+Oleiphilaceae	191033	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	0.0000	0.0010	0.0010
+Pasteurellaceae	712	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Pasteurellales	0.1730	0.1400	0.1850
+Lysobacteraceae	32033	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Lysobacterales	0.1000	0.0310	0.1730
+Rhodanobacteraceae	1775411	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Lysobacterales	0.0330	0.0030	0.0230
+Marinicellaceae	3120710	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Lysobacterales	0.0010	0.0000	0.0000
+Coxiellaceae	118968	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Legionellales	0.0790	0.0960	0.0380
+Legionellaceae	444	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Legionellales	0.0350	0.0190	0.0390
+Piscirickettsiaceae	135616	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Thiotrichales	0.0540	0.0350	0.0270
+Francisellaceae	34064	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Thiotrichales	0.0380	0.0310	0.0240
+Thiotrichaceae	135617	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Thiotrichales	0.0050	0.0050	0.0050
+Fastidiosibacteraceae	2056687	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Thiotrichales	0.0000	0.0000	0.0000
+Cellvibrionaceae	1706371	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	0.0370	0.0150	0.0100
+Microbulbiferaceae	1706373	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	0.0180	0.0050	0.0070
+Porticoccaceae	1706374	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	0.0070	0.0120	0.0070
+Halieaceae	1706372	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	0.0060	0.0000	0.0010
+Spongiibacteraceae	1706375	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	0.0030	0.0020	0.0020
+Orbaceae	1240483	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Orbales	0.0690	0.0840	0.0630
+Aeromonadaceae	84642	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Aeromonadales	0.0550	0.0450	0.0380
+Succinivibrionaceae	83763	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Aeromonadales	0.0100	0.0040	0.0050
+Chromatiaceae	1046	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Chromatiales	0.0200	0.0180	0.0110
+Ectothiorhodospiraceae	72276	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Chromatiales	0.0120	0.0010	0.0030
+Sedimenticolaceae	3067276	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Chromatiales	0.0070	0.0050	0.0030
+Halothiobacillaceae	255526	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Chromatiales	0.0020	0.0000	0.0010
+Granulosicoccaceae	449719	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Chromatiales	0.0020	0.0000	0.0000
+Wenzhouxiangellaceae	1676141	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Chromatiales	0.0010	0.0000	0.0000
+Thioalkalibacteraceae	2035710	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Chromatiales	0.0010	0.0000	0.0000
+Methylococcaceae	403	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Methylococcales	0.0400	0.0130	0.0180
+Methylothermaceae	1486721	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Methylococcales	0.0000	0.0000	0.0010
+Candidatus Pseudothioglobaceae	3399801	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria		0.0140	0.0070	0.0210
+Celerinatantimonadaceae	412032	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria		0.0050	0.0000	0.0010
+Kangiellaceae	1920240	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Kangiellales	0.0110	0.0030	0.0060
+Ignatzschineriaceae	3018589	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Cardiobacteriales	0.0060	0.0100	0.0030
+Cardiobacteriaceae	868	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Cardiobacteriales	0.0040	0.0000	0.0010
+Acidiferrobacteraceae	1692041	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Acidiferrobacterales	0.0020	0.0000	0.0000
+Nevskiaceae	568386	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Nevskiales	0.0010	0.0000	0.0010
+Algiphilaceae	1266054	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Nevskiales	0.0020	0.0000	0.0010
+Salinisphaeraceae	742031	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Salinisphaerales	0.0010	0.0000	0.0010
+Woeseiaceae	1738654	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Woeseiales	0.0010	0.0000	0.0000
+Candidatus Johnevansiaceae	3399796	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Candidatus Johnevansiales	0.0010	0.0000	0.0000
+Thiohalobacteraceae	3085110	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Thiohalobacterales	0.0010	0.0000	0.0000
+Immundisolibacteraceae	1934946	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Immundisolibacterales	0.0010	0.0000	0.0000
+Candidatus Comchoanobacteraceae	2975285	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Candidatus Comchoanobacterales	0.0000	0.0000	0.0000
+Candidatus Poriferihabitaceae	3033994	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Arenicellales	0.0000	0.0000	0.0000
+Candidatus Rariloculaceae	2978122	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Candidatus Rariloculales	0.0000	0.0000	0.0000
+Thiohalomonadaceae	3084969	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Thiohalomonadales	0.0000	0.0000	0.0000
+Steroidobacteraceae	2689614	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Steroidobacterales	0.0000	0.0000	0.0000
+Candidatus Foliamicaceae	3023562	F	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Candidatus Foliamicales	0.0000	0.0000	0.0000
+Burkholderiaceae	119060	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Burkholderiales	0.5150	0.0610	0.1570
+Comamonadaceae	80864	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Burkholderiales	0.0790	0.0180	0.0540
+Oxalobacteraceae	75682	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Burkholderiales	0.0640	0.0260	0.0360
+Alcaligenaceae	506	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Burkholderiales	0.0740	0.0170	0.0280
+Sphaerotilaceae	2975441	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Burkholderiales	0.0120	0.0030	0.0150
+Sutterellaceae	995019	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Burkholderiales	0.0080	0.0000	0.0000
+Neisseriaceae	481	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Neisseriales	0.0570	0.0340	0.0440
+Chitinibacteraceae	2897177	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Neisseriales	0.0160	0.0020	0.0060
+Chromobacteriaceae	1499392	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Neisseriales	0.0120	0.0010	0.0040
+Aquaspirillaceae	2897176	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Neisseriales	0.0020	0.0370	0.0010
+Methylophilaceae	32011	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	0.0210	0.0220	0.0090
+Nitrosomonadaceae	206379	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	0.0080	0.0020	0.0040
+Sterolibacteriaceae	2008793	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	0.0040	0.0000	0.0010
+Sulfuricellaceae	2772226	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	0.0030	0.0000	0.0020
+Gallionellaceae	90627	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	0.0030	0.0000	0.0010
+Thiobacillaceae	2008790	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	0.0020	0.0000	0.0010
+Usitatibacteraceae	2803844	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	0.0210	0.0010	0.0160
+Casimicrobiaceae	2705999	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria		0.0050	0.0010	0.0020
+Zoogloeaceae	2008794	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Rhodocyclales	0.0070	0.0010	0.0030
+Azonexaceae	2008795	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Rhodocyclales	0.0060	0.0000	0.0020
+Rhodocyclaceae	75787	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Rhodocyclales	0.0040	0.0010	0.0020
+Fluviibacteraceae	2808923	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Rhodocyclales	0.0010	0.0010	0.0000
+Ferrovaceae	1442156	F	Bacteria	Pseudomonadati	Pseudomonadota	Betaproteobacteria	Ferrovales	0.0000	0.0000	0.0000
+Acidithiobacillaceae	225058	F	Bacteria	Pseudomonadati	Pseudomonadota	Acidithiobacillia	Acidithiobacillales	0.0100	0.0010	0.0040
+Mariprofundaceae	580372	F	Bacteria	Pseudomonadati	Pseudomonadota	Candidatius Mariprofundia	Mariprofundales	0.0010	0.0000	0.0010
+Magnetococcaceae	1191479	F	Bacteria	Pseudomonadati	Pseudomonadota	Magnetococcia	Magnetococcales	0.0010	0.0000	0.0000
+Hydrogenophilaceae	206349	F	Bacteria	Pseudomonadati	Pseudomonadota	Hydrogenophilia	Hydrogenophilales	0.0000	0.0000	0.0010
+Flavobacteriaceae	49546	F	Bacteria	Pseudomonadati	Bacteroidota	Flavobacteriia	Flavobacteriales	0.8790	1.3300	1.0740
+Weeksellaceae	2762318	F	Bacteria	Pseudomonadati	Bacteroidota	Flavobacteriia	Flavobacteriales	0.1620	0.2270	0.2220
+Blattabacteriaceae	39782	F	Bacteria	Pseudomonadati	Bacteroidota	Flavobacteriia	Flavobacteriales	0.0330	0.0650	0.0470
+Crocinitomicaceae	1853230	F	Bacteria	Pseudomonadati	Bacteroidota	Flavobacteriia	Flavobacteriales	0.0030	0.0000	0.0020
+Owenweeksiaceae	3024551	F	Bacteria	Pseudomonadati	Bacteroidota	Flavobacteriia	Flavobacteriales	0.0020	0.0000	0.0000
+Sanyastnellaceae	3228945	F	Bacteria	Pseudomonadati	Bacteroidota	Flavobacteriia	Flavobacteriales	0.0010	0.0000	0.0010
+Parvicellaceae	2975259	F	Bacteria	Pseudomonadati	Bacteroidota	Flavobacteriia	Flavobacteriales	0.0010	0.0000	0.0000
+Ichthyobacteriaceae	1755828	F	Bacteria	Pseudomonadati	Bacteroidota	Flavobacteriia	Flavobacteriales	0.0010	0.0000	0.0000
+Sphingobacteriaceae	84566	F	Bacteria	Pseudomonadati	Bacteroidota	Sphingobacteriia	Sphingobacteriales	0.2350	0.2610	0.2440
+Aurantibacillaceae	3088888	F	Bacteria	Pseudomonadati	Bacteroidota	Sphingobacteriia	Sphingobacteriales	0.0000	0.0000	0.0000
+Hymenobacteraceae	1853232	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0300	0.0170	0.0200
+Flammeovirgaceae	200667	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0250	0.0530	0.0320
+Spirosomataceae	2896860	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0190	0.0140	0.0200
+Cyclobacteriaceae	563798	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0170	0.0140	0.0220
+Roseivirgaceae	2762306	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0160	0.0220	0.0150
+Bernardetiaceae	1937968	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0150	0.0160	0.0230
+Cytophagaceae	89373	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0110	0.0060	0.0120
+Leadbetterellaceae	3141702	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0100	0.0120	0.0120
+Marivirgaceae	2762301	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0100	0.0260	0.0100
+Reichenbachiellaceae	2762302	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0060	0.0020	0.0060
+Fulvivirgaceae	2762286	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0050	0.0110	0.0050
+Amoebophilaceae	1501348	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0040	0.0010	0.0010
+Flectobacillaceae	3141701	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0030	0.0020	0.0040
+Persicobacteraceae	1853234	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0020	0.0020	0.0060
+Catalimonadaceae	1522127	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0020	0.0000	0.0010
+Rhodocytophagaceae	3078917	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0020	0.0000	0.0000
+Mangrovivirgaceae	2858885	F	Bacteria	Pseudomonadati	Bacteroidota	Cytophagia	Cytophagales	0.0010	0.0000	0.0000
+Prevotellaceae	171552	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0400	0.0250	0.0290
+Bacteroidaceae	815	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0420	0.0530	0.0400
+Tannerellaceae	2005525	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0180	0.0120	0.0080
+Dysgonomonadaceae	2005520	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0090	0.0100	0.0100
+Rikenellaceae	171550	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0060	0.0010	0.0020
+Porphyromonadaceae	171551	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0030	0.0000	0.0010
+Odoribacteraceae	1853231	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0030	0.0020	0.0050
+Barnesiellaceae	2005519	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0030	0.0000	0.0020
+Muribaculaceae	2005473	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0020	0.0000	0.0010
+Salinivirgaceae	1970190	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0010	0.0000	0.0010
+Tenuifilaceae	2760872	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0000	0.0020	0.0030
+Paludibacteraceae	2005523	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Bacteroidales	0.0000	0.0010	0.0010
+Marinifilaceae	1573805	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Marinilabiliales	0.0140	0.0320	0.0270
+Prolixibacteraceae	1471398	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Marinilabiliales	0.0130	0.0370	0.0070
+Marinilabiliaceae	558415	F	Bacteria	Pseudomonadati	Bacteroidota	Bacteroidia	Marinilabiliales	0.0020	0.0010	0.0050
+Chitinophagaceae	563835	F	Bacteria	Pseudomonadati	Bacteroidota	Chitinophagia	Chitinophagales	0.0570	0.0530	0.0350
+Saprospiraceae	89374	F	Bacteria	Pseudomonadati	Bacteroidota	Saprospiria	Saprospirales	0.0040	0.0090	0.0030
+Haliscomenobacteraceae	1937961	F	Bacteria	Pseudomonadati	Bacteroidota	Saprospiria	Saprospirales	0.0030	0.0060	0.0070
+Lewinellaceae	1937960	F	Bacteria	Pseudomonadati	Bacteroidota	Saprospiria	Saprospirales	0.0030	0.0000	0.0010
+Chlorobiaceae	191412	F	Bacteria	Pseudomonadati	Chlorobiota	Chlorobiia	Chlorobiales	0.0090	0.0020	0.0040
+Chloroherpetonaceae	2968741	F	Bacteria	Pseudomonadati	Chlorobiota	Chlorobiia	Chlorobiales	0.0010	0.0000	0.0000
+Ignavibacteriaceae	795749	F	Bacteria	Pseudomonadati	Ignavibacteriota	Ignavibacteria	Ignavibacteriales	0.0050	0.0070	0.0090
+Melioribacteraceae	1334117	F	Bacteria	Pseudomonadati	Ignavibacteriota	Ignavibacteria	Ignavibacteriales	0.0010	0.0010	0.0020
+Balneolaceae	1813606	F	Bacteria	Pseudomonadati	Balneolota	Balneolia	Balneolales	0.0010	0.0000	0.0020
+Cyclonatronaceae	3024158	F	Bacteria	Pseudomonadati	Balneolota	Balneolia	Balneolales	0.0000	0.0000	0.0000
+Rhodothermaceae	563843	F	Bacteria	Pseudomonadati	Rhodothermota	Rhodothermia	Rhodothermales	0.0010	0.0000	0.0000
+Salinibacteraceae	1853225	F	Bacteria	Pseudomonadati	Rhodothermota	Rhodothermia	Rhodothermales	0.0000	0.0000	0.0000
+Rubricoccaceae	1853227	F	Bacteria	Pseudomonadati	Rhodothermota	Rhodothermia	Rhodothermales	0.0000	0.0000	0.0000
+Fidelibacteraceae	3377527	F	Bacteria	Pseudomonadati	Fidelibacterota	Fidelibacteria	Fidelibacterales	0.0020	0.0040	0.0030
+Gemmatimonadaceae	219687	F	Bacteria	Pseudomonadati	Gemmatimonadota	Gemmatimonadia	Gemmatimonadales	0.0010	0.0000	0.0000
+Candidatus Palauibacteraceae	3056649	F	Bacteria	Pseudomonadati	Gemmatimonadota	Gemmatimonadia	Candidatus Palauibacterales	0.0000	0.0000	0.0000
+Gaopeijiaceae	3381668	F	Bacteria	Pseudomonadati	Gemmatimonadota	Longimicrobiia	Gaopeijiales	0.0000	0.0000	0.0000
+Fibrobacteraceae	204431	F	Bacteria	Pseudomonadati	Fibrobacterota	Fibrobacteria	Fibrobacterales	0.0010	0.0000	0.0010
+Candidatus Cloacimonadaceae	3039865	F	Bacteria	Pseudomonadati	Candidatus Cloacimonadota	Candidatus Cloacimonadia	Candidatus Cloacimonadales	0.0000	0.0030	0.0000
+Arcobacteraceae	2808963	F	Bacteria	Pseudomonadati	Campylobacterota	Epsilonproteobacteria	Campylobacterales	0.1460	0.2520	0.1790
+Campylobacteraceae	72294	F	Bacteria	Pseudomonadati	Campylobacterota	Epsilonproteobacteria	Campylobacterales	0.0680	0.0760	0.0980
+Helicobacteraceae	72293	F	Bacteria	Pseudomonadati	Campylobacterota	Epsilonproteobacteria	Campylobacterales	0.0440	0.0490	0.0550
+Sulfurovaceae	2771472	F	Bacteria	Pseudomonadati	Campylobacterota	Epsilonproteobacteria	Campylobacterales	0.0280	0.0240	0.0070
+Sulfurimonadaceae	2771471	F	Bacteria	Pseudomonadati	Campylobacterota	Epsilonproteobacteria	Campylobacterales	0.0200	0.0290	0.0380
+Sulfurospirillaceae	2932623	F	Bacteria	Pseudomonadati	Campylobacterota	Epsilonproteobacteria	Campylobacterales	0.0170	0.0180	0.0100
+Hydrogenimonadaceae	292630	F	Bacteria	Pseudomonadati	Campylobacterota	Epsilonproteobacteria	Campylobacterales	0.0030	0.0040	0.0050
+Nautiliaceae	224467	F	Bacteria	Pseudomonadati	Campylobacterota	Epsilonproteobacteria	Nautiliales	0.0110	0.0140	0.0080
+Nitratiruptoraceae	2795691	F	Bacteria	Pseudomonadati	Campylobacterota	Epsilonproteobacteria	Nautiliales	0.0030	0.0010	0.0010
+Hippeaceae	3048035	F	Bacteria	Pseudomonadati	Campylobacterota	Desulfurellia	Desulfurellales	0.0010	0.0000	0.0000
+Pirellulaceae	2691357	F	Bacteria	Pseudomonadati	Planctomycetota	Planctomycetia	Pirellulales	0.0190	0.0060	0.0060
+Lacipirellulaceae	2691359	F	Bacteria	Pseudomonadati	Planctomycetota	Planctomycetia	Pirellulales	0.0040	0.0000	0.0010
+Thermoguttaceae	2691358	F	Bacteria	Pseudomonadati	Planctomycetota	Planctomycetia	Pirellulales	0.0000	0.0000	0.0000
+Planctomycetaceae	126	F	Bacteria	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	0.0190	0.0040	0.0150
+Isosphaeraceae	1763524	F	Bacteria	Pseudomonadati	Planctomycetota	Planctomycetia	Isosphaerales	0.0050	0.0010	0.0050
+Gemmataceae	1914233	F	Bacteria	Pseudomonadati	Planctomycetota	Planctomycetia	Gemmatales	0.0030	0.0000	0.0010
+Kolteriaceae	3444226	F	Bacteria	Pseudomonadati	Planctomycetota	Planctomycetia	Kolteriales	0.0010	0.0000	0.0000
+Candidatus Uabimicrobiaceae	2897348	F	Bacteria	Pseudomonadati	Planctomycetota	Candidatus Uabimicrobiia	Candidatus Uabimicrobiales	0.0140	0.0160	0.0070
+Phycisphaeraceae	666507	F	Bacteria	Pseudomonadati	Planctomycetota	Phycisphaerae	Phycisphaerales	0.0010	0.0000	0.0010
+Sedimentisphaeraceae	2483367	F	Bacteria	Pseudomonadati	Planctomycetota	Phycisphaerae	Sedimentisphaerales	0.0010	0.0020	0.0000
+Tepidisphaeraceae	1771355	F	Bacteria	Pseudomonadati	Planctomycetota	Phycisphaerae	Tepidisphaerales	0.0000	0.0000	0.0000
+Candidatus Brocadiaceae	1127830	F	Bacteria	Pseudomonadati	Planctomycetota	Candidatus Brocadiia	Candidatus Brocadiales	0.0010	0.0000	0.0000
+Candidatus Rhabdochlamydiaceae	689704	F	Bacteria	Pseudomonadati	Chlamydiota	Chlamydiia	Parachlamydiales	0.0070	0.0120	0.0060
+Parachlamydiaceae	92713	F	Bacteria	Pseudomonadati	Chlamydiota	Chlamydiia	Parachlamydiales	0.0050	0.0060	0.0090
+Simkaniaceae	92712	F	Bacteria	Pseudomonadati	Chlamydiota	Chlamydiia	Parachlamydiales	0.0010	0.0000	0.0010
+Waddliaceae	92714	F	Bacteria	Pseudomonadati	Chlamydiota	Chlamydiia	Parachlamydiales	0.0000	0.0000	0.0000
+Chlamydiaceae	809	F	Bacteria	Pseudomonadati	Chlamydiota	Chlamydiia	Chlamydiales	0.0090	0.0160	0.0120
+Coraliomargaritaceae	3056371	F	Bacteria	Pseudomonadati	Verrucomicrobiota	Opitutia	Puniceicoccales	0.0050	0.0010	0.0010
+Cerasicoccaceae	3056374	F	Bacteria	Pseudomonadati	Verrucomicrobiota	Opitutia	Puniceicoccales	0.0020	0.0000	0.0010
+Opitutaceae	134623	F	Bacteria	Pseudomonadati	Verrucomicrobiota	Opitutia	Opitutales	0.0030	0.0000	0.0010
+Alterococcaceae	3056375	F	Bacteria	Pseudomonadati	Verrucomicrobiota	Opitutia	Opitutales	0.0000	0.0000	0.0000
+Verrucomicrobiaceae	203557	F	Bacteria	Pseudomonadati	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	0.0040	0.0000	0.0010
+Akkermansiaceae	1647988	F	Bacteria	Pseudomonadati	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	0.0040	0.0000	0.0010
+Fontisphaeraceae	3050006	F	Bacteria	Pseudomonadati	Verrucomicrobiota	Verrucomicrobiia	Limisphaerales	0.0000	0.0000	0.0000
+Methylacidiphilaceae	717964	F	Bacteria	Pseudomonadati	Verrucomicrobiota	Methylacidiphilae	Methylacidiphilales	0.0020	0.0010	0.0010
+Tichowtungiaceae	2907186	F	Bacteria	Pseudomonadati	Kiritimatiellota	Tichowtungiia	Tichowtungiales	0.0010	0.0000	0.0000
+Kiritimatiellaceae	1921783	F	Bacteria	Pseudomonadati	Kiritimatiellota	Kiritimatiellia	Kiritimatiellales	0.0000	0.0000	0.0000
+Lentisphaeraceae	566277	F	Bacteria	Pseudomonadati	Lentisphaerota	Lentisphaeria	Lentisphaerales	0.0010	0.0000	0.0010
+Borreliaceae	1643685	F	Bacteria	Pseudomonadati	Spirochaetota	Spirochaetia	Spirochaetales	0.0230	0.0220	0.0210
+Treponemataceae	2845253	F	Bacteria	Pseudomonadati	Spirochaetota	Spirochaetia	Spirochaetales	0.0200	0.0440	0.0260
+Spirochaetaceae	137	F	Bacteria	Pseudomonadati	Spirochaetota	Spirochaetia	Spirochaetales	0.0040	0.0100	0.0020
+Sphaerochaetaceae	2791015	F	Bacteria	Pseudomonadati	Spirochaetota	Spirochaetia	Spirochaetales	0.0020	0.0000	0.0010
+Breznakiellaceae	2951104	F	Bacteria	Pseudomonadati	Spirochaetota	Spirochaetia	Spirochaetales	0.0010	0.0000	0.0000
+Leptospiraceae	170	F	Bacteria	Pseudomonadati	Spirochaetota	Spirochaetia	Leptospirales	0.0370	0.0380	0.0190
+Brachyspiraceae	143786	F	Bacteria	Pseudomonadati	Spirochaetota	Spirochaetia	Brachyspirales	0.0160	0.0510	0.0200
+Winmispiraceae	3409819	F	Bacteria	Pseudomonadati	Spirochaetota	Spirochaetia	Winmispirales	0.0010	0.0000	0.0000
+Thermospiraceae	3024225	F	Bacteria	Pseudomonadati	Spirochaetota	Spirochaetia	Brevinematales	0.0000	0.0000	0.0000
+Desulfovibrionaceae	194924	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	0.0300	0.0120	0.0240
+Desulfomicrobiaceae	213116	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	0.0010	0.0000	0.0000
+Desulfohalobiaceae	213117	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	0.0000	0.0000	0.0000
+Geobacteraceae	213422	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfuromonadia	Geobacterales	0.0120	0.0070	0.0040
+Desulfuromonadaceae	213421	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfuromonadia	Desulfuromonadales	0.0080	0.0090	0.0040
+Geoalkalibacteraceae	3031665	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfuromonadia	Desulfuromonadales	0.0010	0.0000	0.0000
+Syntrophotaleaceae	2812024	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfuromonadia	Desulfuromonadales	0.0010	0.0010	0.0010
+Desulfosarcinaceae	3031624	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfobacteria	Desulfobacterales	0.0080	0.0020	0.0070
+Desulfobacteraceae	213119	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfobacteria	Desulfobacterales	0.0040	0.0040	0.0080
+Desulfococcaceae	2931039	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfobacteria	Desulfobacterales	0.0010	0.0040	0.0010
+Desulfosudaceae	2904715	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfobacteria	Desulfobacterales	0.0010	0.0000	0.0000
+Desulfolunaceae	3031622	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfobacteria	Desulfobacterales	0.0010	0.0000	0.0000
+Desulfatibacillaceae	3031627	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfobacteria	Desulfobacterales	0.0000	0.0000	0.0000
+Desulfocapsaceae	2886822	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfobulbia	Desulfobulbales	0.0080	0.0020	0.0030
+Desulfobulbaceae	213121	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfobulbia	Desulfobulbales	0.0060	0.0000	0.0010
+Thiovibrionaceae	3072124	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfobulbia	Desulfobulbales	0.0000	0.0000	0.0000
+Thermodesulfobacteriaceae	188711	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Thermodesulfobacteria	Thermodesulfobacteriales	0.0020	0.0000	0.0010
+Thermodesulfatatoraceae	3031464	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Thermodesulfobacteria	Thermodesulfobacteriales	0.0010	0.0000	0.0000
+Desulfobaccaceae	3031656	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfobaccia	Desulfobaccales	0.0020	0.0000	0.0010
+Candidatus Desulfofervidaceae	1902584	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Candidatus Desulfofervidia	Candidatus Desulfofervidales	0.0010	0.0000	0.0000
+Syntrophaceae	213468	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Syntrophia	Syntrophales	0.0010	0.0000	0.0000
+Desulfarculaceae	453228	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfarculia	Desulfarculales	0.0010	0.0000	0.0000
+Desulfomonilaceae	3031658	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Desulfomonilia	Desulfomonilales	0.0000	0.0000	0.0000
+Dissulfuribacteraceae	3031471	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Dissulfuribacteria	Dissulfuribacterales	0.0000	0.0000	0.0000
+Syntrophobacteraceae	213465	F	Bacteria	Pseudomonadati	Thermodesulfobacteriota	Syntrophobacteria	Syntrophobacterales	0.0000	0.0000	0.0000
+Pseudobdellovibrionaceae	213483	F	Bacteria	Pseudomonadati	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	0.0200	0.0040	0.0100
+Silvanigrellaceae	2024974	F	Bacteria	Pseudomonadati	Bdellovibrionota	Oligoflexia	Silvanigrellales	0.0060	0.0100	0.0120
+Bacteriovoracaceae	263369	F	Bacteria	Pseudomonadati	Bdellovibrionota	Bacteriovoracia	Bacteriovoracales	0.0030	0.0020	0.0050
+Halobacteriovoraceae	1652132	F	Bacteria	Pseudomonadati	Bdellovibrionota	Bacteriovoracia	Bacteriovoracales	0.0020	0.0000	0.0010
+Myxococcaceae	31	F	Bacteria	Pseudomonadati	Myxococcota	Myxococcia	Myxococcales	0.0060	0.0010	0.0020
+Archangiaceae	39	F	Bacteria	Pseudomonadati	Myxococcota	Myxococcia	Myxococcales	0.0040	0.0010	0.0030
+Anaeromyxobacteraceae	1524215	F	Bacteria	Pseudomonadati	Myxococcota	Myxococcia	Myxococcales	0.0010	0.0000	0.0000
+Vulgatibacteraceae	1524213	F	Bacteria	Pseudomonadati	Myxococcota	Myxococcia	Myxococcales	0.0000	0.0000	0.0000
+Pendulisporaceae	3375061	F	Bacteria	Pseudomonadati	Myxococcota	Myxococcia	Myxococcales	0.0010	0.0000	0.0000
+Polyangiaceae	49	F	Bacteria	Pseudomonadati	Myxococcota		Polyangiales	0.0080	0.0010	0.0070
+Labilitrichaceae	1524216	F	Bacteria	Pseudomonadati	Myxococcota		Polyangiales	0.0010	0.0010	0.0000
+Sandaracinaceae	1055686	F	Bacteria	Pseudomonadati	Myxococcota		Polyangiales	0.0000	0.0000	0.0000
+Nannocystaceae	224463	F	Bacteria	Pseudomonadati	Myxococcota		Nannocystales	0.0010	0.0000	0.0000
+Kofleriaceae	224464	F	Bacteria	Pseudomonadati	Myxococcota		Haliangiales	0.0000	0.0000	0.0000
+Acidobacteriaceae	204434	F	Bacteria	Pseudomonadati	Acidobacteriota	Terriglobia	Terriglobales	0.0140	0.0030	0.0090
+Candidatus Korobacteraceae	3121618	F	Bacteria	Pseudomonadati	Acidobacteriota	Terriglobia	Terriglobales	0.0000	0.0000	0.0000
+Bryobacteraceae	1962910	F	Bacteria	Pseudomonadati	Acidobacteriota	Terriglobia	Bryobacterales	0.0010	0.0000	0.0000
+Holophagaceae	574976	F	Bacteria	Pseudomonadati	Acidobacteriota	Holophagae	Holophagales	0.0020	0.0000	0.0010
+Acanthopleuribacteraceae	533207	F	Bacteria	Pseudomonadati	Acidobacteriota	Holophagae	Acanthopleuribacterales	0.0020	0.0000	0.0000
+Thermotomaculaceae	2562244	F	Bacteria	Pseudomonadati	Acidobacteriota	Holophagae	Thermotomaculales	0.0000	0.0000	0.0010
+Vicinamibacteraceae	2211325	F	Bacteria	Pseudomonadati	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	0.0010	0.0000	0.0010
+Chloracidobacteriaceae	3681503	F	Bacteria	Pseudomonadati	Acidobacteriota	Blastocatellia	Chloracidobacteriales	0.0010	0.0000	0.0020
+Desulfurobacteriaceae	558314	F	Bacteria	Pseudomonadati	Aquificota	Aquificia	Desulfurobacteriales	0.0150	0.0120	0.0170
+Aquificaceae	64898	F	Bacteria	Pseudomonadati	Aquificota	Aquificia	Aquificales	0.0030	0.0000	0.0010
+Hydrogenothermaceae	224027	F	Bacteria	Pseudomonadati	Aquificota	Aquificia	Aquificales	0.0010	0.0070	0.0000
+Nitrospiraceae	189779	F	Bacteria	Pseudomonadati	Nitrospirota	Nitrospiria	Nitrospirales	0.0150	0.0090	0.0090
+Dissulfurispiraceae	2811505	F	Bacteria	Pseudomonadati	Nitrospirota	Thermodesulfovibrionia	Thermodesulfovibrionales	0.0020	0.0030	0.0010
+Thermodesulfovibrionaceae	2811504	F	Bacteria	Pseudomonadati	Nitrospirota	Thermodesulfovibrionia	Thermodesulfovibrionales	0.0010	0.0000	0.0010
+Deferribacteraceae	191394	F	Bacteria	Pseudomonadati	Deferribacterota	Deferribacteres	Deferribacterales	0.0030	0.0050	0.0020
+Geovibrionaceae	2945019	F	Bacteria	Pseudomonadati	Deferribacterota	Deferribacteres	Deferribacterales	0.0010	0.0000	0.0000
+Mucispirillaceae	2945020	F	Bacteria	Pseudomonadati	Deferribacterota	Deferribacteres	Deferribacterales	0.0010	0.0000	0.0000
+Flexistipitaceae	2945022	F	Bacteria	Pseudomonadati	Deferribacterota	Deferribacteres	Deferribacterales	0.0000	0.0000	0.0010
+Calditerrivibrionaceae	2945021	F	Bacteria	Pseudomonadati	Deferribacterota	Deferribacteres	Deferribacterales	0.0000	0.0000	0.0010
+Atribacteraceae	2847776	F	Bacteria	Pseudomonadati	Atribacterota	Atribacteria	Atribacterales	0.0030	0.0000	0.0010
+Candidatus Caldatribacteriaceae	3378215	F	Bacteria	Pseudomonadati	Atribacterota	Atribacteria	Atribacterales	0.0010	0.0000	0.0010
+Thermodesulfobiaceae	227387	F	Bacteria	Pseudomonadati	Thermodesulfobiota	Thermodesulfobiia	Thermodesulfobiales	0.0040	0.0010	0.0030
+Dictyoglomaceae	203488	F	Bacteria	Pseudomonadati	Dictyoglomota	Dictyoglomia	Dictyoglomales	0.0020	0.0070	0.0010
+Coprothermobacteraceae	2138247	F	Bacteria	Pseudomonadati	Coprothermobacterota	Coprothermobacteria	Coprothermobacterales	0.0010	0.0000	0.0000
+Caldisericaceae	693073	F	Bacteria	Pseudomonadati	Caldisericota	Caldisericia	Caldisericales	0.0010	0.0010	0.0010
+Chrysiogenaceae	189770	F	Bacteria	Pseudomonadati	Chrysiogenota	Chrysiogenia	Chrysiogenales	0.0010	0.0000	0.0000
+Elusimicrobiaceae	641876	F	Bacteria	Pseudomonadati	Elusimicrobiota	Elusimicrobia	Elusimicrobiales	0.0000	0.0000	0.0000
+Endomicrobiaceae	1783343	F	Bacteria	Pseudomonadati	Elusimicrobiota	Endomicrobiia	Endomicrobiales	0.0000	0.0000	0.0000
+Thermomicrobiaceae	189777	F	Bacteria	Pseudomonadati	Thermomicrobiota	Thermomicrobia	Thermomicrobiales	0.0010	0.0000	0.0000
+Calditrichaceae	1962854	F	Bacteria	Pseudomonadati	Calditrichota	Calditrichia	Calditrichales	0.0000	0.0000	0.0000
+Nitrospinaceae	407032	F	Bacteria	Pseudomonadati	Nitrospinota	Nitrospinia	Nitrospinales	0.0000	0.0000	0.0000
+Thermosulfidibacteraceae	3120748	F	Bacteria	Pseudomonadati	Thermosulfidibacterota	Thermosulfidibacteria	Thermosulfidibacterales	0.0000	0.0000	0.0000
+Fusobacteriaceae	203492	F	Bacteria	Fusobacteriati	Fusobacteriota	Fusobacteriia	Fusobacteriales	0.0980	0.2170	0.1670
+Leptotrichiaceae	1129771	F	Bacteria	Fusobacteriati	Fusobacteriota	Fusobacteriia	Fusobacteriales	0.0340	0.0860	0.0550
+Haliovirgaceae	3072461	F	Bacteria	Fusobacteriati	Fusobacteriota	Fusobacteriia	Fusobacteriales	0.0040	0.0060	0.0050
+Synergistaceae	649777	F	Bacteria	Thermotogati	Synergistota	Synergistia	Synergistales	0.0420	0.0370	0.0110
+Dethiosulfovibrionaceae	3029088	F	Bacteria	Thermotogati	Synergistota	Synergistia	Synergistales	0.0220	0.0190	0.0040
+Aminobacteriaceae	3029087	F	Bacteria	Thermotogati	Synergistota	Synergistia	Synergistales	0.0020	0.0020	0.0010
+Petrotogaceae	1643949	F	Bacteria	Thermotogati	Thermotogota	Thermotogae	Petrotogales	0.0110	0.0080	0.0160
+Fervidobacteriaceae	1643950	F	Bacteria	Thermotogati	Thermotogota	Thermotogae	Thermotogales	0.0050	0.0130	0.0080
+Thermotogaceae	188709	F	Bacteria	Thermotogati	Thermotogota	Thermotogae	Thermotogales	0.0010	0.0000	0.0010
+Kosmotogaceae	1643948	F	Bacteria	Thermotogati	Thermotogota	Thermotogae	Kosmotogales	0.0010	0.0000	0.0000
+Mesoaciditogaceae	1769717	F	Bacteria	Thermotogati	Thermotogota	Thermotogae	Mesoaciditogales	0.0000	0.0000	0.0000
+Deinococcaceae	183710	F	Bacteria	Thermotogati	Deinococcota	Deinococci	Deinococcales	0.0070	0.0010	0.0060
+Thermaceae	188786	F	Bacteria	Thermotogati	Deinococcota	Deinococci	Thermales	0.0040	0.0010	0.0010
+Trueperaceae	332247	F	Bacteria	Thermotogati	Deinococcota	Deinococci	Trueperales	0.0000	0.0000	0.0000
+Candidatus Babeliaceae	2497645	F	Bacteria			Candidatus Babeliae	Candidatus Babeliales	0.0030	0.0000	0.0040
+Candidatus Chromulinivoraceae	2953756	F	Bacteria			Candidatus Babeliae	Candidatus Babeliales	0.0010	0.0000	0.0000
+Candidatus Nanosynbacteraceae	2093822	F	Bacteria		Candidatus Saccharimonadota	Candidatus Saccharimonadia	Candidatus Nanosynbacterales	0.0030	0.0000	0.0000
+Candidatus Saccharimonadaceae	2171986	F	Bacteria		Candidatus Saccharimonadota	Candidatus Saccharimonadia	Candidatus Saccharimonadales	0.0010	0.0000	0.0010
+Fervidibacteraceae	3477253	F	Bacteria		Candidatus Fervidibacterota	Fervidibacteria	Fervidibacterales	0.0010	0.0000	0.0010
+Candidatus Chazhemtobacteraceae	2715733	F	Bacteria					0.0000	0.0000	0.0000
+Minisyncoccaceae	3238476	F	Bacteria		Minisyncoccota	Minisyncoccia	Minisyncoccales	0.0000	0.0000	0.0000
+Candidatus Absconditicoccaceae	2900569	F	Bacteria		Candidatus Absconditibacteriota		Candidatus Absconditabacterales	0.0000	0.0020	0.0040
+Bradymonadaceae	1779135	F	Bacteria			Deltaproteobacteria	Bradymonadales	0.0000	0.0000	0.0000
+Allomicrovenatoraceae	2946505	F	Bacteria			Deltaproteobacteria	Bradymonadales	0.0000	0.0000	0.0000
+Fabaceae	3803	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Fabales	1.5560	3.1460	2.4970
+Rosaceae	3745	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Rosales	0.3340	0.5440	0.4550
+Cannabaceae	3481	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Rosales	0.2850	0.6850	0.4460
+Rhamnaceae	3608	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Rosales	0.0910	0.1470	0.2200
+Euphorbiaceae	3977	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Malpighiales	0.4910	0.9640	0.7410
+Salicaceae	3688	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Malpighiales	0.2530	0.5000	0.4020
+Fagaceae	3503	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Fagales	0.2460	0.3690	0.3350
+Juglandaceae	16714	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Fagales	0.2130	0.2970	0.2850
+Betulaceae	3514	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Fagales	0.1180	0.2010	0.1620
+Cucurbitaceae	3650	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Cucurbitales	0.3850	0.8500	0.7300
+Celastraceae	4305	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Celastrales	0.0570	0.0590	0.0750
+Malvaceae	3629	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Malvales	0.3970	0.6680	0.5420
+Myrtaceae	3931	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Myrtales	0.2210	0.1400	0.1120
+Lythraceae	3928	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Myrtales	0.0910	0.0630	0.0530
+Brassicaceae	3700	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Brassicales	0.4230	1.0200	0.9300
+Anacardiaceae	4011	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Sapindales	0.0820	0.1650	0.1480
+Rutaceae	23513	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Sapindales	0.0490	0.0850	0.0790
+Vitaceae	3602	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Vitales	0.1220	0.2180	0.1970
+Solanaceae	4070	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Solanales	1.5500	2.6940	2.2690
+Convolvulaceae	4118	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Solanales	0.0530	0.0980	0.0880
+Gesneriaceae	26122	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	0.2480	0.3940	0.3740
+Lamiaceae	4136	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	0.1500	0.2650	0.2130
+Oleaceae	4144	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	0.1320	0.2090	0.1900
+Pedaliaceae	4180	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Lamiales	0.0500	0.1150	0.0760
+Rubiaceae	24966	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Gentianales	0.2350	0.2360	0.1590
+Asteraceae	4210	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Asterales	1.2610	2.2030	1.8570
+Apiaceae	4037	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Apiales	0.2410	0.5220	0.3760
+Balsaminaceae	25692	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Ericales	0.1000	0.2050	0.1570
+Actinidiaceae	3623	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Ericales	0.0880	0.1750	0.1360
+Ebenaceae	19955	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Ericales	0.0780	0.0680	0.0880
+Ericaceae	4345	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Ericales	0.0510	0.0840	0.0530
+Chenopodiaceae	1804623	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Caryophyllales	0.2270	0.4040	0.3990
+Caryophyllaceae	3568	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Caryophyllales	0.1270	0.1900	0.1620
+Amaranthaceae	3563	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Caryophyllales	0.0910	0.1880	0.2050
+Ximeniaceae	1003242	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Santalales	0.1320	0.2110	0.1930
+Poaceae	4479	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Poales	1.1420	1.4450	1.2160
+Bromeliaceae	4613	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Poales	0.0490	0.0970	0.0510
+Cyperaceae	4609	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Poales	0.0660	0.1750	0.1960
+Typhaceae	4731	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Poales	0.0430	0.0920	0.0960
+Zingiberaceae	4642	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Zingiberales	0.2570	0.3610	0.3400
+Musaceae	4637	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Zingiberales	0.1950	0.6030	0.4460
+Arecaceae	4710	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Arecales	0.1580	0.2450	0.2220
+Asparagaceae	40552	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Asparagales	0.0880	0.1130	0.1020
+Dioscoreaceae	4671	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Dioscoreales	0.0790	0.2000	0.1110
+Araceae	4454	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Alismatales	0.0540	0.1070	0.0850
+Papaveraceae	3465	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Ranunculales	0.1990	0.3170	0.2470
+Proteaceae	4328	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Proteales	0.1350	0.1320	0.1570
+Magnoliaceae	3401	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Magnoliales	0.1200	0.1630	0.1170
+Nymphaeaceae	4410	F	Eukaryota	Viridiplantae	Streptophyta	Magnoliopsida	Nymphaeales	0.0330	0.0460	0.0550
+Cupressaceae	3367	F	Eukaryota	Viridiplantae	Streptophyta	Pinopsida	Cupressales	0.6010	1.0850	0.9460
+Funariaceae	3216	F	Eukaryota	Viridiplantae	Streptophyta	Bryopsida	Funariales	0.0710	0.1670	0.1210
+Bathycoccaceae	1525212	F	Eukaryota	Viridiplantae	Chlorophyta	Mamiellophyceae	Mamiellales	0.0030	0.0040	0.0030
+Mamiellaceae	41873	F	Eukaryota	Viridiplantae	Chlorophyta	Mamiellophyceae	Mamiellales	0.0020	0.0000	0.0000
+Chlamydomonadaceae	3051	F	Eukaryota	Viridiplantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	0.0040	0.0000	0.0020
+Hominidae	9604	F	Eukaryota	Metazoa	Chordata	Mammalia	Primates	1.0180	1.7060	1.7430
+Saccharomycetaceae	4893	F	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	0.2300	0.0720	0.0960
+Saccharomycodaceae	34365	F	Eukaryota	Fungi	Ascomycota	Saccharomycetes	Saccharomycodales	0.0070	0.0090	0.0160
+Debaryomycetaceae	766764	F	Eukaryota	Fungi	Ascomycota	Pichiomycetes	Serinales	0.0370	0.0170	0.0200
+Metschnikowiaceae	27319	F	Eukaryota	Fungi	Ascomycota	Pichiomycetes	Serinales	0.0020	0.0010	0.0010
+Pichiaceae	1156497	F	Eukaryota	Fungi	Ascomycota	Pichiomycetes	Pichiales	0.0080	0.0050	0.0030
+Trichomonascaceae	410830	F	Eukaryota	Fungi	Ascomycota	Dipodascomycetes	Dipodascales	0.0030	0.0010	0.0020
+Nectriaceae	110618	F	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	0.0230	0.0180	0.0280
+Clavicipitaceae	34397	F	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	0.0100	0.0120	0.0150
+Hypocreaceae	5129	F	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	0.0090	0.0030	0.0060
+Ophiocordycipitaceae	474942	F	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	0.0020	0.0020	0.0010
+Cordycipitaceae	474943	F	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Hypocreales	0.0010	0.0010	0.0000
+Glomerellaceae	681950	F	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Glomerellales	0.0090	0.0090	0.0100
+Sordariaceae	5148	F	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	0.0040	0.0090	0.0120
+Chaetomiaceae	35718	F	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	0.0040	0.0020	0.0010
+Podosporaceae	2609812	F	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Sordariales	0.0020	0.0020	0.0020
+Pyriculariaceae	2528436	F	Eukaryota	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	0.0080	0.0110	0.0090
+Sclerotiniaceae	28983	F	Eukaryota	Fungi	Ascomycota	Leotiomycetes	Helotiales	0.0040	0.0010	0.0050
+Mycosphaerellaceae	93133	F	Eukaryota	Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	0.0190	0.0260	0.0090
+Pleosporaceae	28556	F	Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	0.0060	0.0090	0.0050
+Didymellaceae	683158	F	Eukaryota	Fungi	Ascomycota	Dothideomycetes	Pleosporales	0.0020	0.0000	0.0010
+Trichocomaceae	28568	F	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	0.0120	0.0010	0.0020
+Aspergillaceae	1131492	F	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	0.0110	0.0040	0.0100
+Onygenaceae	33184	F	Eukaryota	Fungi	Ascomycota	Eurotiomycetes	Onygenales	0.0030	0.0000	0.0020
+Schizosaccharomycetaceae	4894	F	Eukaryota	Fungi	Ascomycota	Schizosaccharomycetes	Schizosaccharomycetales	0.0090	0.0090	0.0100
+Cryptococcaceae	1884633	F	Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Tremellales	0.0350	0.0280	0.0270
+Trichosporonaceae	1759442	F	Eukaryota	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	0.0030	0.0000	0.0010
+Strophariaceae	40562	F	Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Agaricales	0.0030	0.0060	0.0060
+Marasmiaceae	654128	F	Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Agaricales	0.0010	0.0010	0.0020
+Ceratobasidiaceae	5250	F	Eukaryota	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	0.0010	0.0000	0.0010
+Pucciniaceae	5262	F	Eukaryota	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	0.0140	0.0420	0.0280
+Ustilaginaceae	5268	F	Eukaryota	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	0.0020	0.0000	0.0010
+Malasseziaceae	742845	F	Eukaryota	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	0.0010	0.0000	0.0010
+Glomeraceae	36751	F	Eukaryota	Fungi	Mucoromycota	Glomeromycetes	Glomerales	0.0420	0.1310	0.0850
+Nosematidae	27974	F	Eukaryota	Fungi	Microsporidia			0.0030	0.0040	0.0050
+Unikaryonidae	36734	F	Eukaryota	Fungi	Microsporidia			0.0000	0.0000	0.0000
+Plasmodiidae	1639119	F	Eukaryota		Apicomplexa	Aconoidasida	Haemosporida	0.0660	0.1360	0.1150
+Theileriidae	27994	F	Eukaryota		Apicomplexa	Aconoidasida	Piroplasmida	0.0050	0.0100	0.0140
+Babesiidae	32594	F	Eukaryota		Apicomplexa	Aconoidasida	Piroplasmida	0.0030	0.0020	0.0040
+Cryptosporidiidae	35082	F	Eukaryota		Apicomplexa	Conoidasida	Eucoccidiorida	0.0060	0.0100	0.0100
+Sarcocystidae	5809	F	Eukaryota		Apicomplexa	Conoidasida	Eucoccidiorida	0.0060	0.0030	0.0020
+Parameciidae	340080	F	Eukaryota		Ciliophora	Oligohymenophorea	Peniculida	0.0000	0.0000	0.0000
+Phaeodactylaceae	38749	F	Eukaryota		Bacillariophyta	Bacillariophyceae	Naviculales	0.0030	0.0000	0.0030
+Thalassiosiraceae	29202	F	Eukaryota		Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	0.0010	0.0000	0.0000
+Peronosporaceae	4777	F	Eukaryota		Oomycota	Peronosporomycetes	Peronosporales	0.0030	0.0010	0.0020
+Trichomonadidae	181550	F	Eukaryota		Parabasalia		Trichomonadida	0.0170	0.0320	0.0190
+Hexamitidae	5739	F	Eukaryota		Fornicata		Diplomonadida	0.0020	0.0060	0.0040
+Dictyosteliaceae	2058185	F	Eukaryota		Evosea	Eumycetozoa	Dictyosteliales	0.0160	0.0280	0.0130
+Trypanosomatidae	5654	F	Eukaryota		Euglenozoa	Kinetoplastea	Trypanosomatida	0.0140	0.0020	0.0040
+Cyanidiaceae	265316	F	Eukaryota		Rhodophyta	Bangiophyceae	Cyanidiales	0.0000	0.0000	0.0000
+Geminigeraceae	589343	F	Eukaryota			Cryptophyceae	Pyrenomonadales	0.0000	0.0000	0.0000
+Methanobacteriaceae	2159	F	Archaea	Methanobacteriati	Methanobacteriota	Methanobacteria	Methanobacteriales	0.0430	0.0770	0.0520
+Methanocaldococcaceae	196117	F	Archaea	Methanobacteriati	Methanobacteriota	Methanococci	Methanococcales	0.0130	0.0200	0.0120
+Methanococcaceae	2183	F	Archaea	Methanobacteriati	Methanobacteriota	Methanococci	Methanococcales	0.0030	0.0010	0.0010
+Methanopyraceae	183713	F	Archaea	Methanobacteriati	Methanobacteriota	Methanopyri	Methanopyrales	0.0000	0.0000	0.0000
+Methanosarcinaceae	2206	F	Archaea	Methanobacteriati	Methanobacteriota	Methanomicrobia	Methanosarcinales	0.0200	0.0470	0.0420
+Methanomicrobiaceae	2194	F	Archaea	Methanobacteriati	Methanobacteriota	Methanomicrobia	Methanomicrobiales	0.0040	0.0140	0.0010
+Methanospirillaceae	196137	F	Archaea	Methanobacteriati	Methanobacteriota	Methanomicrobia	Methanomicrobiales	0.0030	0.0050	0.0020
+Methanoregulaceae	1198451	F	Archaea	Methanobacteriati	Methanobacteriota	Methanomicrobia	Methanomicrobiales	0.0010	0.0000	0.0000
+Methanocellaceae	570265	F	Archaea	Methanobacteriati	Methanobacteriota	Methanomicrobia	Methanocellales	0.0010	0.0020	0.0000
+Methanotrichaceae	143067	F	Archaea	Methanobacteriati	Methanobacteriota	Methanomicrobia	Methanotrichales	0.0000	0.0000	0.0000
+Haloferacaceae	1644056	F	Archaea	Methanobacteriati	Methanobacteriota	Halobacteria	Halobacteriales	0.0080	0.0010	0.0050
+Natrialbaceae	1644061	F	Archaea	Methanobacteriati	Methanobacteriota	Halobacteria	Halobacteriales	0.0060	0.0010	0.0030
+Haloarculaceae	1963268	F	Archaea	Methanobacteriati	Methanobacteriota	Halobacteria	Halobacteriales	0.0040	0.0000	0.0030
+Haladaptataceae	3064797	F	Archaea	Methanobacteriati	Methanobacteriota	Halobacteria	Halobacteriales	0.0010	0.0010	0.0020
+Natronomonadaceae	3402413	F	Archaea	Methanobacteriati	Methanobacteriota	Halobacteria	Halobacteriales	0.0010	0.0000	0.0010
+Halobacteriaceae	2236	F	Archaea	Methanobacteriati	Methanobacteriota	Halobacteria	Halobacteriales	0.0010	0.0000	0.0020
+Halococcaceae	1963270	F	Archaea	Methanobacteriati	Methanobacteriota	Halobacteria	Halobacteriales	0.0010	0.0010	0.0000
+Natronoarchaeaceae	2976354	F	Archaea	Methanobacteriati	Methanobacteriota	Halobacteria	Halobacteriales	0.0000	0.0000	0.0000
+Thermococcaceae	2259	F	Archaea	Methanobacteriati	Methanobacteriota	Thermococci	Thermococcales	0.0030	0.0010	0.0020
+Archaeoglobaceae	2232	F	Archaea	Methanobacteriati	Methanobacteriota	Archaeoglobi	Archaeoglobales	0.0010	0.0020	0.0000
+Cuniculiplasmataceae	1747776	F	Archaea	Methanobacteriati	Thermoplasmatota	Thermoplasmata	Thermoplasmatales	0.0030	0.0050	0.0020
+Ferroplasmaceae	90142	F	Archaea	Methanobacteriati	Thermoplasmatota	Thermoplasmata	Thermoplasmatales	0.0010	0.0010	0.0020
+Picrophilaceae	46630	F	Archaea	Methanobacteriati	Thermoplasmatota	Thermoplasmata	Thermoplasmatales	0.0000	0.0000	0.0000
+Thermoplasmataceae	46659	F	Archaea	Methanobacteriati	Thermoplasmatota	Thermoplasmata	Thermoplasmatales	0.0000	0.0000	0.0000
+Methanomassiliicoccaceae	1577788	F	Archaea	Methanobacteriati	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	0.0010	0.0000	0.0010
+Nitrosopumilaceae	338190	F	Archaea	Thermoproteati	Nitrososphaerota	Nitrososphaeria	Nitrosopumilales	0.0260	0.0160	0.0040
+Nitrososphaeraceae	1033997	F	Archaea	Thermoproteati	Nitrososphaerota	Nitrososphaeria	Nitrososphaerales	0.0040	0.0050	0.0030
+Nitrosotaleaceae	3373482	F	Archaea	Thermoproteati	Nitrososphaerota	Nitrososphaeria	Nitrosotaleales	0.0010	0.0000	0.0000
+Sulfolobaceae	118883	F	Archaea	Thermoproteati	Thermoproteota	Thermoprotei	Sulfolobales	0.0110	0.0130	0.0090
+Thermoproteaceae	2267	F	Archaea	Thermoproteati	Thermoproteota	Thermoprotei	Thermoproteales	0.0030	0.0020	0.0020
+Desulfurococcaceae	2272	F	Archaea	Thermoproteati	Thermoproteota	Thermoprotei	Desulfurococcales	0.0010	0.0040	0.0000
+Pyrodictiaceae	2307	F	Archaea	Thermoproteati	Thermoproteota	Thermoprotei	Desulfurococcales	0.0000	0.0000	0.0000
+Thermofilaceae	114378	F	Archaea	Thermoproteati	Thermoproteota	Thermoprotei	Thermofilales	0.0000	0.0000	0.0000
+Promethearchaeaceae	3366644	F	Archaea	Promethearchaeati	Promethearchaeota	Promethearchaeia	Promethearchaeales	0.0070	0.0090	0.0060
+Nanobdellaceae	2974823	F	Archaea	Nanobdellati	Nanobdellota	Nanobdellia	Nanobdellales	0.0010	0.0030	0.0010
+Candidatus Micrarchaeaceae	2885735	F	Archaea	Nanobdellati	Microcaldota	Candidatus Micrarchaeia	Candidatus Micrarchaeales	0.0000	0.0000	0.0000
+Herelleviridae	2560065	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0020	0.0010	0.0020
+Grimontviridae	3044466	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0020	0.0030	0.0050
+Chimalliviridae	3152113	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0030	0.0000	0.0050
+Demerecviridae	2731690	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0010	0.0000	0.0000
+Mesyanzhinovviridae	2946162	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0010	0.0000	0.0000
+Connertonviridae	3424642	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0050	0.0010
+Stanwilliamsviridae	3044479	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0010	0.0000	0.0000
+Schitoviridae	2842329	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0000
+Vandenendeviridae	3424680	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0010	0.0000	0.0010
+Rountreeviridae	2842327	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0010	0.0000	0.0000
+Drexlerviridae	2731691	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0010	0.0000	0.0010
+Aliceevansviridae	3044455	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0010
+Pachyviridae	2946166	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0010	0.0000	0.0000
+Fredfastierviridae	3044465	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0000
+Straboviridae	2946170	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes	Pantevenvirales	0.0020	0.0000	0.0020
+Kyanoviridae	2946160	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes	Pantevenvirales	0.0010	0.0010	0.0010
+Intestiviridae	2942964	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes	Crassvirales	0.0010	0.0000	0.0000
+Suoliviridae	2942966	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes	Crassvirales	0.0010	0.0000	0.0060
+Autonotataviridae	3424634	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes	Autographivirales	0.0000	0.0000	0.0000
+Autoscriptoviridae	3424635	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes	Autographivirales	0.0000	0.0000	0.0000
+Autosignataviridae	3424636	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes	Autographivirales	0.0000	0.0000	0.0000
+Orthoherpesviridae	3044472	F	Viruses	Heunggongvirae	Peploviricota	Herviviricetes	Herpesvirales	0.0010	0.0000	0.0010
+Mimiviridae	549779	F	Viruses	Bamfordvirae	Nucleocytoviricota	Megaviricetes	Imitervirales	0.0040	0.0060	0.0040
+Schizomimiviridae	3044476	F	Viruses	Bamfordvirae	Nucleocytoviricota	Megaviricetes	Imitervirales	0.0000	0.0010	0.0000
+Iridoviridae	10486	F	Viruses	Bamfordvirae	Nucleocytoviricota	Megaviricetes	Pimascovirales	0.0010	0.0010	0.0010
+Marseilleviridae	944644	F	Viruses	Bamfordvirae	Nucleocytoviricota	Megaviricetes	Pimascovirales	0.0000	0.0000	0.0000
+Orpheoviridae	3152140	F	Viruses	Bamfordvirae	Nucleocytoviricota	Megaviricetes	Pimascovirales	0.0000	0.0010	0.0010
+Pithoviridae	2023203	F	Viruses	Bamfordvirae	Nucleocytoviricota	Megaviricetes	Pimascovirales	0.0000	0.0000	0.0000
+Phycodnaviridae	10501	F	Viruses	Bamfordvirae	Nucleocytoviricota	Megaviricetes	Algavirales	0.0010	0.0000	0.0000
+Poxviridae	10240	F	Viruses	Bamfordvirae	Nucleocytoviricota	Pokkesviricetes	Chitovirales	0.0010	0.0090	0.0020
+Asfarviridae	137992	F	Viruses	Bamfordvirae	Nucleocytoviricota	Pokkesviricetes	Asfuvirales	0.0000	0.0000	0.0000
+Solspiviridae	2842331	F	Viruses	Orthornavirae	Lenarviricota	Leviviricetes	Norzivirales	0.0040	0.0000	0.0000
+Mitoviridae	2732892	F	Viruses	Orthornavirae	Lenarviricota	Howeltoviricetes	Cryppavirales	0.0000	0.0000	0.0000
+Peribunyaviridae	1980416	F	Viruses	Orthornavirae	Negarnaviricota	Bunyaviricetes	Elliovirales	0.0010	0.0010	0.0020
+Nairoviridae	1980415	F	Viruses	Orthornavirae	Negarnaviricota	Bunyaviricetes	Hareavirales	0.0000	0.0000	0.0000
+Rhabdoviridae	11270	F	Viruses	Orthornavirae	Negarnaviricota	Monjiviricetes	Mononegavirales	0.0000	0.0000	0.0000
+Paramyxoviridae	11158	F	Viruses	Orthornavirae	Negarnaviricota	Monjiviricetes	Mononegavirales	0.0000	0.0000	0.0000
+Coronaviridae	11118	F	Viruses	Orthornavirae	Pisuviricota	Pisoniviricetes	Nidovirales	0.0000	0.0000	0.0000
+Picornaviridae	12058	F	Viruses	Orthornavirae	Pisuviricota	Pisoniviricetes	Picornavirales	0.0000	0.0000	0.0000
+Sedoreoviridae	2946186	F	Viruses	Orthornavirae	Duplornaviricota	Resentoviricetes	Reovirales	0.0000	0.0000	0.0050
+Chrysoviridae	249310	F	Viruses	Orthornavirae	Duplornaviricota	Chrymotiviricetes	Ghabrivirales	0.0000	0.0000	0.0000
+Caulimoviridae	186534	F	Viruses	Pararnavirae	Artverviricota	Revtraviricetes	Ortervirales	0.0000	0.0000	0.0000
+Nudiviridae	1511852	F	Viruses			Naldaviricetes	Lefavirales	0.0030	0.0000	0.0000
+Baculoviridae	10442	F	Viruses			Naldaviricetes	Lefavirales	0.0000	0.0000	0.0000
+Plasmaviridae	10472	F	Viruses					0.0010	0.0020	0.0000
+Bicaudaviridae	423358	F	Viruses					0.0000	0.0000	0.0000
+Bacilladnaviridae	2169567	F	Viruses	Shotokuvirae	Cressdnaviricota	Arfiviricetes	Baphyvirales	0.0000	0.0000	0.0000
+Circoviridae	39724	F	Viruses	Shotokuvirae	Cressdnaviricota	Arfiviricetes	Cirlivirales	0.0000	0.0000	0.0000
+Plectroviridae	2732098	F	Viruses	Loebvirae	Hofneiviricota	Faserviricetes	Tubulavirales	0.0000	0.0000	0.0000
+Rudiviridae	157897	F	Viruses	Zilligvirae	Taleaviricota	Tokiviricetes	Ligamenvirales	0.0000	0.0000	0.0000
+Carbonactinosporaceae	2864377	F	Bacteria	Bacillati	Actinomycetota	Actinomycetes	Kitasatosporales	0.0000	0.0000	0.0000
+Fimbriimonadaceae	1663426	F	Bacteria	Bacillati	Armatimonadota	Fimbriimonadia	Fimbriimonadales	0.0000	0.0000	0.0000
+Sphaerobacteraceae	85002	F	Bacteria	Pseudomonadati	Thermomicrobiota	Thermomicrobia	Sphaerobacterales	0.0000	0.0000	0.0000
+Cryptomonadaceae	2896	F	Eukaryota			Cryptophyceae	Cryptomonadales	0.0000	0.0000	0.0000
+Halalkalicoccaceae	3386556	F	Archaea	Methanobacteriati	Methanobacteriota	Halobacteria	Halobacteriales	0.0000	0.0000	0.0000
+Candidatus Nitrosocaldaceae	1968910	F	Archaea	Thermoproteati	Nitrososphaerota	Nitrososphaeria	Candidatus Nitrosocaldales	0.0000	0.0010	0.0000
+Acidilobaceae	871007	F	Archaea	Thermoproteati	Thermoproteota	Thermoprotei	Acidilobales	0.0000	0.0000	0.0000
+Molycolviridae	2946163	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0060	0.0000
+Ackermannviridae	2169529	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes	Pantevenvirales	0.0000	0.0000	0.0000
+Autotranscriptaviridae	3424637	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes	Autographivirales	0.0000	0.0000	0.0000
+Tospoviridae	1980419	F	Viruses	Orthornavirae	Negarnaviricota	Bunyaviricetes	Elliovirales	0.0000	0.0010	0.0000
+Spinareoviridae	2946187	F	Viruses	Orthornavirae	Duplornaviricota	Resentoviricetes	Reovirales	0.0000	0.0000	0.0000
+Endornaviridae	564644	F	Viruses	Orthornavirae	Kitrinoviricota	Alsuviricetes	Martellivirales	0.0000	0.0000	0.0000
+Parvoviridae	10780	F	Viruses	Shotokuvirae	Cossaviricota	Quintoviricetes	Piccovirales	0.0000	0.0000	0.0000
+Geminiviridae	10811	F	Viruses	Shotokuvirae	Cressdnaviricota	Repensiviricetes	Geplafuvirales	0.0000	0.0000	0.0000
+Candidatus Spongiisociaceae	2983162	F	Bacteria	Bacillati	Actinomycetota	Acidimicrobiia	Candidatus Spongiisociales	0.0000	0.0000	0.0000
+Thermithiobacillaceae	225059	F	Bacteria	Pseudomonadati	Pseudomonadota	Acidithiobacillia	Acidithiobacillales	0.0000	0.0000	0.0000
+Anaerohalosphaeraceae	2690158	F	Bacteria	Pseudomonadati	Planctomycetota	Phycisphaerae	Sedimentisphaerales	0.0000	0.0000	0.0000
+Thermatribacteraceae	3240449	F	Bacteria	Pseudomonadati	Atribacterota	Atribacteria	Atribacterales	0.0000	0.0000	0.0000
+Candidatus Bipolaricaulaceae	3121609	F	Bacteria		Candidatus Bipolaricaulota	Candidatus Bipolaricaulia	Candidatus Bipolaricaulales	0.0000	0.0000	0.0110
+Naviculaceae	67474	F	Eukaryota		Bacillariophyta	Bacillariophyceae	Naviculales	0.0000	0.0000	0.0000
+Methanonatronarchaeaceae	2202724	F	Archaea	Methanobacteriati	Methanobacteriota	Methanonatronarchaeia	Methanonatronarchaeales	0.0000	0.0000	0.0000
+Candidatus Methanoliparaceae	2545690	F	Archaea	Methanobacteriati	Methanobacteriota	Candidatus Methanoliparia	Candidatus Methanoliparales	0.0000	0.0000	0.0000
+Caldisphaeraceae	255472	F	Archaea	Thermoproteati	Thermoproteota	Thermoprotei	Acidilobales	0.0000	0.0000	0.0000
+Tardisphaeraceae	3471630	F	Archaea	Thermoproteati	Thermoproteota	Tardisphaeria	Tardisphaerales	0.0000	0.0000	0.0000
+Zierdtviridae	2946175	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0000
+Andersonviridae	3424631	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0000
+Chaseviridae	2731689	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0000
+Salasmaviridae	2842328	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0000
+Lindbergviridae	3424659	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0010
+Sarkviridae	3424670	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0000
+Arenbergviridae	3044459	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0000
+Felixviridae	3424647	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0000
+Jeanschmidtviridae	3424654	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0000
+Crevaviridae	2942963	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes	Crassvirales	0.0000	0.0000	0.0000
+Mtkvariviridae	3680502	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes		0.0000	0.0000	0.0000
+Aoguangviridae	3044458	F	Viruses	Heunggongvirae	Uroviricota	Caudoviricetes	Magrovirales	0.0000	0.0000	0.0010
+Adenoviridae	10508	F	Viruses	Bamfordvirae	Preplasmiviricota	Pharingeaviricetes	Rowavirales	0.0000	0.0000	0.0000
+Tobaniviridae	2508209	F	Viruses	Orthornavirae	Pisuviricota	Pisoniviricetes	Nidovirales	0.0000	0.0000	0.0000
+Secoviridae	675072	F	Viruses	Orthornavirae	Pisuviricota	Pisoniviricetes	Picornavirales	0.0000	0.0000	0.0000
+Potyviridae	39729	F	Viruses	Orthornavirae	Pisuviricota	Stelpaviricetes	Patatavirales	0.0000	0.0000	0.0000
+Hytrosaviridae	1285590	F	Viruses			Naldaviricetes	Lefavirales	0.0000	0.0000	0.0020
+Polydnaviriformidae	2946196	F	Viruses					0.0000	0.0000	0.0000
+Anelloviridae	687329	F	Viruses	Shotokuvirae	Commensaviricota	Cardeaviricetes	Sanitavirales	0.0000	0.0000	0.0000
+Lipothrixviridae	10477	F	Viruses	Zilligvirae	Taleaviricota	Tokiviricetes	Ligamenvirales	0.0000	0.0000	0.0000
